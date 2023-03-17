@@ -16,6 +16,7 @@ export default function Bio() {
             src="../profile.jpeg"
             width={450}
             height={300}
+            style={{borderRadius: '50%'}}
           />
           <p className="mb-8 leading-relaxed" >
           My name is Yaroslav Yatsyk and I am a graduation student pursuing an Ontario College Advanced Diploma in Computer Programming and Analysis at Casa Loma Campus. As a full-time student, I have completed 5 semesters of the program and am currently enrolled in the sixth semester. My studies have given me a strong foundation in IT essentials, computing logic, web development, object-oriented programming, database management, and agile software development.
