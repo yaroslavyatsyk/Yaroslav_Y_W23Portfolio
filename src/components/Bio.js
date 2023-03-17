@@ -28,13 +28,6 @@ export default function Bio() {
               programming, database management, and agile software development.
               <br />
               <br />
-              In addition to my academic pursuits, I have also been actively
-              involved in extracurricular activities on campus, including coding
-              clubs and hackathons. I am passionate about exploring new
-              technologies and finding innovative solutions to real-world
-              problems.
-              <br />
-              <br />
               As I approach graduation, I am excited to apply my skills and
               knowledge to a professional setting. I am eager to take on new
               challenges and contribute to the field of computer technology. My
