@@ -27,7 +27,7 @@ export default function Capstone() {
     </tr>
     <tr>
       <th>Business Requirements</th>
-      <th></th>
+      <th>{capstone.businessRequirements}</th>
     </tr>
     <tr>
       <th>Project Plan</th>
