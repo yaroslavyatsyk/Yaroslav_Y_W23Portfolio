@@ -18,7 +18,7 @@ export default function Navbar() {
             Skills
           </a>
           <a href="#capstone" className="mr-5 hover:text-white">
-            Capstone
+            Capstone Project
           </a>
           <a href="#bio" className="mr-5 hover:text-white">
             Bio

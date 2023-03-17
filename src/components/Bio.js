@@ -14,7 +14,7 @@ export default function Bio() {
             className="object-center rounded mx-auto"
             alt="yaroslav"
             src="../profile.jpeg"
-            width={400}
+            width={450}
             height={300}
           />
           <p className="mb-8 leading-relaxed" >
