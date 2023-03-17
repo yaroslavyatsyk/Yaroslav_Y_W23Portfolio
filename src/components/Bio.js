@@ -14,9 +14,9 @@ export default function Bio() {
               className="card-img-top object-center rounded mx-auto"
               alt="yaroslav"
               src="../profile.jpeg"
-              width={450}
+              width={400}
               height={300}
-              style={{ borderRadius: "50%" }}
+              style={{ borderRadius: "70%" }}
             />
             <p className="card-text mb-8 leading-relaxed">
               My name is Yaroslav Yatsyk and I am a graduation student pursuing
