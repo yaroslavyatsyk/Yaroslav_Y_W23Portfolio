@@ -11,43 +11,43 @@ export default function Capstone() {
             Capstone Project
             <br className="hidden lg:inline-block"></br>
           </h1>
-          <table className="text-center mb-20 mx-auto" >
-  <thead className="text-center mb-20 mx-auto">
-    <tr>
-      <th>Project Name</th>
-      <th>{capstone.projectName}</th>
+          <table className="text-center mb-20 mx-auto" style={{border: '1px solid white'}}>
+  <thead className="text-center mb-20 mx-auto" style={{border: '1px solid white'}}>
+    <tr style={{border: '1px solid white'}}>
+      <th style={{border: '1px solid white'}}>Project Name</th>
+      <th style={{border: '1px solid white'}}>{capstone.projectName}</th>
     </tr>
-    <tr>
-      <th>Project Summary</th>
-      <th>{capstone.projectSummary}</th>
+    <tr style={{border: '1px solid white'}}>
+      <th style={{border: '1px solid white'}}>Project Summary</th>
+      <th style={{border: '1px solid white'}}>{capstone.projectSummary}</th>
     </tr>
-    <tr>
-      <th>Project Vision</th>
-      <th>{capstone.projectVision}</th>
+    <tr style={{border: '1px solid white'}}>
+      <th style={{border: '1px solid white'}}>Project Vision</th>
+      <th style={{border: '1px solid white'}}>{capstone.projectVision}</th>
     </tr>
-    <tr>
-      <th>Business Requirements</th>
-      <th>{capstone.businessRequirements}</th>
+    <tr style={{border: '1px solid white'}}>
+      <th style={{border: '1px solid white'}}>Business Requirements</th>
+      <th style={{border: '1px solid white'}}>{capstone.businessRequirements}</th>
     </tr>
-    <tr>
-      <th>Project Plan</th>
-      <th>{capstone.projectPlan}</th>
+    <tr style={{border: '1px solid white'}}>
+      <th style={{border: '1px solid white'}}>Project Plan</th>
+      <th style={{border: '1px solid white'}}>{capstone.projectPlan}</th>
     </tr>
-    <tr>
-      <th>Requirements Analysis and Design </th>
-      <th>{capstone.requirementsAnalysisAndDesign}</th>
+    <tr style={{border: '1px solid white'}}>
+      <th style={{border: '1px solid white'}}>Requirements Analysis and Design </th>
+      <th style={{border: '1px solid white'}}>{capstone.requirementsAnalysisAndDesign}</th>
     </tr>
-    <tr>
-      <th>Status Reports</th>
-      <th>{capstone.statusReports}</th>
+    <tr style={{border: '1px solid white'}}>
+      <th style={{border: '1px solid white'}}>Status Reports</th>
+      <th style={{border: '1px solid white'}}>{capstone.statusReports}</th>
     </tr>
-    <tr>
-      <th>System Implementation</th>
-      <th>{capstone.systemImplementation}</th>
+    <tr style={{border: '1px solid white'}}>
+      <th style={{border: '1px solid white'}}>System Implementation</th>
+      <th style={{border: '1px solid white'}}>{capstone.systemImplementation}</th>
     </tr>
-    <tr>
-      <th>Wireframs</th>
-      <th><a href={capstone.wireFrams}>Mock Ups</a></th>
+    <tr style={{border: '1px solid white'}}>
+      <th style={{border: '1px solid white'}}>Wireframs</th>
+      <th style={{border: '1px solid white'}}><a href={capstone.wireFrams} style={{color: 'white'}}>Mock Ups</a></th>
     </tr>
   </thead>
 </table>
