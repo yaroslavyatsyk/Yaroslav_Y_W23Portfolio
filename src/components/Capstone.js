@@ -47,7 +47,7 @@ export default function Capstone() {
     </tr>
     <tr style={{border: '1px solid white'}}>
       <th style={{border: '1px solid white'}}>Wireframes</th>
-      <th style={{border: '1px solid white'}}><a href={capstone.wireFrames} style={{color: 'white'}}>Mock Ups</a></th>
+      <th style={{border: '1px solid white'}}>Link: <a href={capstone.wireFrames} style={{color: 'white'}}>Mock Ups</a></th>
     </tr>
   </thead>
 </table>
