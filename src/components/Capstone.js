@@ -48,11 +48,11 @@ export default function Capstone() {
     <tr style={{border: '1px solid white'}}>
       <th style={{border: '1px solid white'}}>Wireframes</th>
       <th style={{border: '1px solid white'}}><ul>
-        <li><img src="/Client Park Info.png" height={50}></img></li>
-        <li><img src="/Main Page Park List.png" height={50}></img></li>
-        <li><img src="/Client View Booking Details.png" height={50}/></li>
-        <li><img src="/Client Send Request for Park Website.png" height={50}/></li>
-        <li><img src="/Home Page.png" height={50}/></li>
+        <li><img src="/Client Park Info.png" style={{height: '50px'}}></img></li>
+        <li><img src="/Main Page Park List.png" style={{height: '50px'}}></img></li>
+        <li><img src="/Client View Booking Details.png" style={{height: '50px'}}/></li>
+        <li><img src="/Client Send Request for Park Website.png" style={{height: '50px'}}/></li>
+        <li><img src="/Home Page.png" style={{height: '50px'}}/></li>
         </ul></th>
     </tr>
   </thead>
