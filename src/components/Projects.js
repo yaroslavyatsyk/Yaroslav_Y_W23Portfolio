@@ -14,6 +14,8 @@ export default function Projects() {
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             There are projects that I have done during school or free time. I am proud of them.
             Also, these projects are going to be updated in future.
+            <br/>
+            The purpose of creating these projects was to practice and expand the level of skills.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
