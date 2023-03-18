@@ -28,8 +28,7 @@ export default function Contact() {
     <section id="contact" className="relative">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
       <div className="container px-5 py-5 mx-auto flex sm:flex-nowrap flex-wrap">
-        <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative" style={{height: '500px'
-        }}>
+        <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative" style={{height: '500px'}}>
           <iframe
             width="100%"
             height="100%"
@@ -68,13 +67,9 @@ export default function Contact() {
           </div>
 
       <footer className="text-center mb-20" style={{margin: 'auto',height:'100px', paddingRight: '10px',paddingTop: '10px'}}>
-      <a href="https://www.linkedin.com/in/yaroslavyatsyk/">
-  <i class="fa fa-linkedin-square" style={{ fontSize: '36px',fontFamily: 'FontAwesome' }}></i>
-</a>
-
-<a href="https://github.com/yaroslavyatsyk">
-<i class="fa fa-github" style={{fontSize: '36px',fontFamily: 'FontAwesome'}}></i>
-</a>
+      <a href="https://www.linkedin.com/in/yaroslavyatsyk/"><i class="fa fa-linkedin-square" style={{ fontSize: '36px' }}></i></a>
+<br/>
+<a href="https://github.com/yaroslavyatsyk"><i class="fa fa-github" style={{fontSize: '36px'}}></i></a>
       </footer>
     </section>
    
