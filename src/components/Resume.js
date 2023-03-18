@@ -8,10 +8,6 @@ export default function Resume() {
             Resume
             <br className="hidden lg:inline-block" />
           </h1>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto" >
-          Note: The resume can be changed accordingly to company's needs and requirements.
-          Here is presented the basis version
-          </p>
 
           <a href="/Yaroslav Yatsyk. C%23 Developer Resume.pdf" download>Download Resume</a>
 
