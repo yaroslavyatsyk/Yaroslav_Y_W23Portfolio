@@ -69,11 +69,11 @@ export default function Contact() {
 
       <footer className="text-center mb-20" style={{margin: 'auto',height:'100px', paddingRight: '10px',paddingTop: '10px'}}>
       <a href="https://www.linkedin.com/in/yaroslavyatsyk/">
-  <i class="fa fa-linkedin-square" style={{ fontSize: '36px' }}></i>
+  <i class="fa fa-linkedin-square" style={{ fontSize: '36px',fontFamily: 'FontAwesome' }}></i>
 </a>
 
 <a href="https://github.com/yaroslavyatsyk">
-<i class="fa fa-github" style={{fontSize: '36px'}}></i>
+<i class="fa fa-github" style={{fontSize: '36px',fontFamily: 'FontAwesome'}}></i>
 </a>
       </footer>
     </section>
