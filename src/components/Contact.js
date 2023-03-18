@@ -45,10 +45,10 @@ export default function Contact() {
           </div>
 
       <footer className="text-center mb-20" style={{margin: 'auto',height:'100px', paddingRight: '10px',paddingTop: '10px'}}>
-      <a href="https://www.linkedin.com/in/yaroslavyatsyk">LinkedIn
+      <a href="https://www.linkedin.com/in/yaroslavyatsyk">Link on LinkedIn
 </a>
 <br/>
-<a href="https://github.com/yaroslavyatsyk">GitHub</a>
+<a href="https://github.com/yaroslavyatsyk">Link on GitHub</a>
       </footer>
     </section>
    
