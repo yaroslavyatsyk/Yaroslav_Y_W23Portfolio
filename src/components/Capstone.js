@@ -47,7 +47,13 @@ export default function Capstone() {
     </tr>
     <tr style={{border: '1px solid white'}}>
       <th style={{border: '1px solid white'}}>Wireframes</th>
-      <th style={{border: '1px solid white'}}>Link: <a href={capstone.wireFrames} style={{color: 'white'}}>Mock Ups</a></th>
+      <th style={{border: '1px solid white'}}><ul>
+        <li><img src="/Client Park Info.png"></img></li>
+        <li><img src="/Main Page Park List.png"></img></li>
+        <li><img src="/Client View Booking Details.png"/></li>
+        <li><img src="/Client Send Request for Park Website.png"/></li>
+        <li><img src="/Home Page.png"/></li>
+        </ul></th>
     </tr>
   </thead>
 </table>
