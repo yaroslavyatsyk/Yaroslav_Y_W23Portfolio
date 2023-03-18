@@ -80,6 +80,5 @@ export const skills = [
   "WPF",
   "SQL",
   "ASP.net",
-  "MySQL",
   "Visual Paradigm"
 ];
