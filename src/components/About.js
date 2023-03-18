@@ -22,6 +22,13 @@ export default function About() {
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
               See My Projects
             </a>
+            <a href="https://www.linkedin.com/in/yaroslavyatsyk/">
+  <i class="fa fa-linkedin-square" style={{ fontSize: '36px' }}></i>
+</a>
+
+<a href="https://github.com/yaroslavyatsyk">
+<i class="fa fa-github" style={{fontSize: '36px'}}></i>
+</a>
           </div>
         </div>
       </div>
