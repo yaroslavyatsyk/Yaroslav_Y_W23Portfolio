@@ -9,7 +9,7 @@ export default function Projects() {
         <div className="flex flex-col w-full mb-5">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            List of projects
+            My Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             There are projects that I have done during school or free time. I am proud of them.
