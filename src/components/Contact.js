@@ -1,5 +1,5 @@
 import React from "react";
-import FontAwesomeIcon from 'fontawesome-free'
+
 export default function Contact() {
  
   return (
