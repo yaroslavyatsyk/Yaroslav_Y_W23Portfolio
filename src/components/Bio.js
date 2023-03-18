@@ -3,7 +3,7 @@ import React from "react";
 export default function Bio() {
   return (
     <section id="bio">
-      <div className="container px-5 py-10 mx-auto">
+      <div className="container px-5 py-5 mx-auto">
         <div className="card p-5">
           <div className="card-body">
             <h1 className="card-title title-font sm:text-4xl text-3xl mb-4 font-medium text-white text-center">
