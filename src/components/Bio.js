@@ -6,7 +6,7 @@ export default function Bio() {
       <div className="container px-5 py-5 mx-auto">
         <div className="card p-5">
           <div className="card-body mb-5">
-            <h1 className="card-title title-font sm:text-4xl text-3xl mb-4 font-medium text-white text-center">
+            <h1 className="card-title title-font sm:text-4xl text-3xl mb-5 font-medium text-white text-center">
               Bio
               <br className="hidden lg:inline-block" />
             </h1>
@@ -18,7 +18,7 @@ export default function Bio() {
               height={300}
               style={{ borderRadius: "70%" }}
             />
-            <p className="card-text mb-8 leading-relaxed">
+            <p className="card-text mb-10 leading-relaxed">
               My name is Yaroslav Yatsyk and I am a graduation student pursuing
               an Ontario College Advanced Diploma in Computer Programming and
               Analysis at Casa Loma Campus. As a full-time student, I have
@@ -26,7 +26,6 @@ export default function Bio() {
               the sixth semester. My studies have given me a strong foundation
               in IT essentials, computing logic, web development, object-oriented
               programming, database management, and agile software development.
-              <br />
               <br />
               As I approach graduation, I am excited to apply my skills and
               knowledge to a professional setting. I am eager to take on new
