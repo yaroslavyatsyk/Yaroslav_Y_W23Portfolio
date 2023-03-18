@@ -47,7 +47,7 @@ export const capstone = {
     * Security 5 months
     `,
     requirementsAnalysisAndDesign: "We conducted user research and analyzed existing platforms for recreational areas to determine the features and functionality that would be most valuable to our users. We designed the platform architecture and created wireframes to guide development.",
-    wireFrams: "https://www.figma.com/file/7gGGBN4BbVvJnNVaoVPQFr/P.A.R-Web-App?node-id=0-1&t=PKxu2UZ6HW4bQCCz-0",
+    wireFrames: "https://www.figma.com/file/7gGGBN4BbVvJnNVaoVPQFr/P.A.R-Web-App?node-id=0-1&t=PKxu2UZ6HW4bQCCz-0",
     statusReports: "We provided regular status reports to our stakeholders, including updates on completed tasks, upcoming milestones, and any issues or risks.",
     systemImplementation: "The App is built by MERN stack. Also, there were used other tools like Figma for wireframs and github for version control.",
     businessRequirements:  `

@@ -46,8 +46,8 @@ export default function Capstone() {
       <th style={{border: '1px solid white'}}>{capstone.systemImplementation}</th>
     </tr>
     <tr style={{border: '1px solid white'}}>
-      <th style={{border: '1px solid white'}}>Wireframs</th>
-      <th style={{border: '1px solid white'}}><a href={capstone.wireFrams} style={{color: 'white'}}>Mock Ups</a></th>
+      <th style={{border: '1px solid white'}}>Wireframes</th>
+      <th style={{border: '1px solid white'}}><a href={capstone.wireFrames} style={{color: 'white'}}>Mock Ups</a></th>
     </tr>
   </thead>
 </table>
