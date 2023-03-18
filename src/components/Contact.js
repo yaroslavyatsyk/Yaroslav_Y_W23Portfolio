@@ -1,9 +1,8 @@
 import React from "react";
-
+import FontAwesomeIcon from 'fontawesome-free'
 export default function Contact() {
  
   return (
-
     <section id="contact" className="relative">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
       <div className="container px-5 py-5 mx-auto flex sm:flex-nowrap flex-wrap">
@@ -46,9 +45,10 @@ export default function Contact() {
           </div>
 
       <footer className="text-center mb-20" style={{margin: 'auto',height:'100px', paddingRight: '10px',paddingTop: '10px'}}>
-      <a href="https://www.linkedin.com/in/yaroslavyatsyk"><i class="fa fa-linkedin-square" style={{ fontSize: '36px' }}></i></a>
+      <a href="https://www.linkedin.com/in/yaroslavyatsyk">LinkedIn
+</a>
 <br/>
-<a href="https://github.com/yaroslavyatsyk"><i class="fa fa-github" style={{fontSize: '36px'}}></i></a>
+<a href="https://github.com/yaroslavyatsyk">GitHub</a>
       </footer>
     </section>
    
