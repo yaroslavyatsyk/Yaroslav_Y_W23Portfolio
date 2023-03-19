@@ -6,8 +6,8 @@ export default function Projects() {
   return (
     <section id="projects" className="text-gray-400">
       <div className="container px-2 py-2 mx-auto text-center lg:px-5">
-        <div className="flex flex-col w-full mb-3">
-          <CodeIcon className="mx-auto inline-block w-10 mb-4" />
+        <div className="flex flex-col w-full mb-2">
+          <CodeIcon className="mx-auto inline-block w-10 mb-2" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             My Projects
           </h1>
