@@ -18,7 +18,7 @@ export default function Bio() {
               height={300}
               style={{ borderRadius: "70%" }}
             />
-            <br></br>
+            <br/>
             <p className="card-text mb-10 leading-relaxed">
               My name is Yaroslav Yatsyk and I am a graduation student pursuing
               an Ontario College Advanced Diploma in Computer Programming and
