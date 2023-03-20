@@ -45,9 +45,9 @@ export default function Contact() {
           </div>
 
       <footer className="text-center mb-20" style={{margin: 'auto',height:'100px', paddingRight: '10px',paddingTop: '10px'}}>
-      LinkedIn: <a href="https://www.linkedin.com/in/yaroslavyatsyk"><strong>LinkedIn</strong></a>
+      LinkedIn: <a className="text-indigo-400 leading-relaxed" href="https://www.linkedin.com/in/yaroslavyatsyk"><strong>LinkedIn</strong></a>
 <br/>
-GitHub: <a href="https://github.com/yaroslavyatsyk"><strong>GitHub</strong></a>
+GitHub: <a className="text-indigo-400 leading-relaxed" href="https://github.com/yaroslavyatsyk"><strong>GitHub</strong></a>
       </footer>
     </section>
    

@@ -15,7 +15,7 @@ export default function Bio() {
               alt="yaroslav"
               src="../profile.jpeg"
               width={400}
-              height={300}
+              height={400}
               style={{ borderRadius: "70%" }}
             />
             <br/>

@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />C#/.NET Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-          Treat people as they would treat you.
+          The job should give a joy.
           </p>
           <div className="flex justify-center">
             <a
