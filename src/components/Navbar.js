@@ -32,6 +32,8 @@ export default function Navbar() {
           <a href="#contact" className="mr-5 hover:text-white">
             Contact
           </a>
+          <a href="#projects" className="mr-5 hover:text-white">
+            Projects
         </nav>
       </div>
     </header>
