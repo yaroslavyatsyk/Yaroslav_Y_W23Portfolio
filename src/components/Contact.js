@@ -25,8 +25,8 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                160 Kendal Avenue. <br />
-                Toronto, Canada, Ontario, M5T 2T9
+               <br />
+                Toronto, Canada, Ontario
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
