@@ -41,7 +41,7 @@ export default function Projects() {
                   </h1>
                   <p className="leading-relaxed">{project.description}</p>
 
-                  <a href={project.download}>Try It!</a>
+                  <a href={project.download} download><strong>Try It!</strong></a>
                 </div>
               </div>
             </a>
