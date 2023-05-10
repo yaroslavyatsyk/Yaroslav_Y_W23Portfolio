@@ -15,6 +15,7 @@ export const projects = [
       "The App allows to students to ease the process of quadratic equation in Algebra course. It uses all rules of the quadratic equation solving",
     image: "../Project_2.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/Quadric_Equatation",
+    download: "https://www.dropbox.com/s/ei4fybyzft1xdhy/Quadratic%20Installer.msi?dl=1"
   },
   {
     title: "Text Analyzer App",
