@@ -24,6 +24,7 @@ export const projects = [
       "The App accepts the text of any length, and analyzes in terms of language rules, like number of words, characters, appearance of unique and duplicate words",
     image: "../Project_3.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/TextAnalyzerFinal",
+    download: "https://www.dropbox.com/s/1s9mf1k07y1hb7s/Text%20Analyzer%20Setup.msi?dl=1"
   },
   {
     title: "SportsPro. Sporting Technician Management System",
