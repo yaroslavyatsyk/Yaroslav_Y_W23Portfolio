@@ -6,6 +6,7 @@ export const projects = [
       "The Application demonstrates arithmetic operations om matrices, like: addiction, multiplication, and subtraction. ",
     image: "../Project_1.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/Matrix_Calculator",
+    download: "https://www.dropbox.com/s/b051jnqf0taq2v4/Matrix%20Calculator%20Installer.msi?dl=1"
   },
   {
     title: "Quadratic Equation App",
