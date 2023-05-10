@@ -9,7 +9,7 @@ export default function Cover() {
             <br className="hidden lg:inline-block" />
           </h1>
           
-          <a className="text-indigo-400 leading-relaxed" href="/Yaroslav Yatsyk Cover Letter.docx" download><strong>Download Cover Letter</strong></a>
+          <a className="text-indigo-400 leading-relaxed" href="https://www.dropbox.com/scl/fi/aoongv43hpn9i2igd2kse/Yaroslav-Yatsyk-Cover-Letter.docx?dl=1&rlkey=mvrok0r3o06c8x4261feqh85i" download><strong>Download Cover Letter</strong></a>
           </div>
       </div>
     </section>

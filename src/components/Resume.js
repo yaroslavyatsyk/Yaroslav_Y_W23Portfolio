@@ -9,7 +9,7 @@ export default function Resume() {
             <br className="hidden lg:inline-block" />
           </h1>
 
-          <a className="text-indigo-400 leading-relaxed" href="/Yaroslav Yatsyk. C%23 Developer Resume.pdf" download><strong>Download Resume</strong></a>
+          <a className="text-indigo-400 leading-relaxed" href="https://www.dropbox.com/s/vcqjjfrpqubtnjm/Yaroslav%20Yatsyk.%20C%23%20Developer.%20Resume.pdf?dl=1" download={true}><strong>Download Resume</strong></a>
 
 
 
