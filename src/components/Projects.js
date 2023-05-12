@@ -38,12 +38,7 @@ export default function Projects() {
                   </h1>
                   <p className="leading-relaxed">{project.description}</p>
 
-                  {project.download != null && 
-                    <a className="text-indigo-400 leading-relaxed" href={project.download} download={true}><strong>Try it</strong></a>
-
-                    
-                  }      
-                    
+             
                 </div>
               </div>
             </a>

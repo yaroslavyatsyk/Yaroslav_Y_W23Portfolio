@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "Matrix Calculator",
+    title: "Matrix Calculator App",
     subtitle: "",
     description:
       "The Application demonstrates arithmetic operations om matrices, like: addiction, multiplication, and subtraction. \n Used Technologies: C# .Net, Windows Forms (WinForms)",
     image: "../Project_1.png",
-    link: "https://github.com/yaroslavyatsyk/Projects/tree/master/Matrix_Calculator",
-    download: "https://www.dropbox.com/s/b051jnqf0taq2v4/Matrix%20Calculator%20Installer.msi?dl=1"
+    link: "https://github.com/yaroslavyatsyk/Matrix-Calculator-App",
+   
   },
   {
     title: "Quadratic Equation App",
@@ -15,7 +15,7 @@ export const projects = [
       "The App allows to students to ease the process of quadratic equation in Algebra course. It uses all rules of the quadratic equation solving\n Used Technologies: C# .Net, Windows Presentation Foundation (WPF)",
     image: "../Project_2.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/Quadric_Equatation",
-    download: "https://www.dropbox.com/s/ei4fybyzft1xdhy/Quadratic%20Installer.msi?dl=1"
+
   },
   {
     title: "Text Analyzer App",
@@ -24,7 +24,7 @@ export const projects = [
       "The App accepts the text of any length, and analyzes in terms of language rules, like number of words, characters, appearance of unique and duplicate words\nUsed Technologies: C# .Net, Windows Forms (WinForms)",
     image: "../Project_3.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/TextAnalyzerFinal",
-    download: null
+ 
   },
   {
     title: "SportsPro. Sporting Technician Management System",
