@@ -34,6 +34,13 @@ export const projects = [
     image: "../Project_4.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/SportsPro",
   },
+  {
+    title: "Number Analyzer App",
+    subtitle: "",
+    description: "The App accepts the number of any length, and analyzes in terms of language rules, like number of digits, maximum and minimum digit, the frequence of digits in a specific number\nUsed Technologies: C# .Net, Windows Forms (WinForms)",
+    image: "../Project_5.png",
+    link: "https://github.com/yaroslavyatsyk/Projects/tree/master/Number%20Analysis%20App"
+  }
 ];
 export const capstone = {
     projectName: "Park & Recreation Web App",
