@@ -3,7 +3,7 @@ export const projects = [
     title: "Matrix Calculator App",
     subtitle: "",
     description:
-      "The Application demonstrates arithmetic operations om matrices, like: addiction, multiplication, and subtraction. \n Used Technologies: C# .Net, Windows Forms (WinForms)",
+      "The Application demonstrates arithmetic operations om matrices, like: addiction, multiplication, and subtraction. \n Used Technologies: C# .Net, Windows Presentation Foundation (WPF)",
     image: "../Project_1.png",
     link: "https://github.com/yaroslavyatsyk/Matrix-Calculator-App",
    
