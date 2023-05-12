@@ -3,11 +3,12 @@ import React from "react";
 export default function Contact() {
  
   return (
-    
+   
     <section id="contact" className="relative">
+       <h1 class = "justify-center">Contact Information</h1>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
       <div className="container px-5 py-5 mx-auto flex sm:flex-nowrap flex-wrap justify-center items-center">
-      <h1>Contact Information</h1>
+      
       <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
@@ -15,7 +16,7 @@ export default function Contact() {
               </h2>
               <p className="mt-1">
                <br />
-                Toronto, Canada, Ontario, M9P 3S9
+                Toronto, Canada, Ontario
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
