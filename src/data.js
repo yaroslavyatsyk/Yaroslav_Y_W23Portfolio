@@ -85,7 +85,7 @@ export const capstone = {
 export const skills = [
   "C#",
   "Visual Studio",
-  "MS SQL Server",
+  "Microsoft SQL Server",
   "Windows Forms (WinForms)",
   "Windows Presentation Foundation (WPF)",
   "SQL",
