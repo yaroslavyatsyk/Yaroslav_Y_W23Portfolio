@@ -39,11 +39,11 @@ export default function Capstone() {
           <ul> <strong>WireFrames</strong>
             <br/>
             <br/>
-        <li><img src="/Client Park Info.png" style={{height: '100%', width: '100%'}}></img></li>
-        <li><img src="/Main Page Park List.png" style={{height: '100%',width: '100%'}}></img></li>
-        <li><img src="/Client View Booking Details.png" style={{height: '100%',width: '100%'}}/></li>
-        <li><img src="/Client Send Request for Park Website.png" style={{height: '100%',width: '100%'}}/></li>
-        <li><img src="/Home Page.png" style={{height: '100%',width: '100%'}}/></li>
+        <li><img src="/Client Park Info.png" style={{height: '67%', width: '67%'}}></img></li>
+        <li><img src="/Main Page Park List.png" style={{height: '67%',width: '67%'}}></img></li>
+        <li><img src="/Client View Booking Details.png" style={{height: '67%',width: '67%'}}/></li>
+        <li><img src="/Client Send Request for Park Website.png" style={{height: '67%',width: '67%'}}/></li>
+        <li><img src="/Home Page.png" style={{height: '67%',width: '67%'}}/></li>
         </ul>
         </ul>
 
