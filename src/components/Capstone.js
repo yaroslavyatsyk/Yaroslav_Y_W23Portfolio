@@ -36,7 +36,7 @@ export default function Capstone() {
           <li><strong>System Implementation</strong></li>
           <li>{capstone.statusReports}</li>
           <br/>
-          <ul> <strong>WireFrames</strong>
+          <ul className="text-center mb-5"> <strong>WireFrames</strong>
             <br/>
             <br/>
         <li><img src="/Client Park Info.png" style={{height: '50%', width: '50%'}}></img></li>
