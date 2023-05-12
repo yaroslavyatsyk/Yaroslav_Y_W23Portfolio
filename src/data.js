@@ -1,36 +1,36 @@
 export const projects = [
   {
     title: "Matrix Calculator",
-    subtitle: "C#, WinForms",
+    subtitle: "",
     description:
-      "The Application demonstrates arithmetic operations om matrices, like: addiction, multiplication, and subtraction. ",
+      "The Application demonstrates arithmetic operations om matrices, like: addiction, multiplication, and subtraction. \n Used Technologies: C# .Net, Windows Forms (WinForms)",
     image: "../Project_1.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/Matrix_Calculator",
     download: "https://www.dropbox.com/s/b051jnqf0taq2v4/Matrix%20Calculator%20Installer.msi?dl=1"
   },
   {
     title: "Quadratic Equation App",
-    subtitle: "C#, WPF",
+    subtitle: "",
     description:
-      "The App allows to students to ease the process of quadratic equation in Algebra course. It uses all rules of the quadratic equation solving",
+      "The App allows to students to ease the process of quadratic equation in Algebra course. It uses all rules of the quadratic equation solving\n Used Technologies: C# .Net, Windows Presentation Foundation (WPF)",
     image: "../Project_2.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/Quadric_Equatation",
     download: "https://www.dropbox.com/s/ei4fybyzft1xdhy/Quadratic%20Installer.msi?dl=1"
   },
   {
     title: "Text Analyzer App",
-    subtitle: "C#, WinForms",
+    subtitle: "",
     description:
-      "The App accepts the text of any length, and analyzes in terms of language rules, like number of words, characters, appearance of unique and duplicate words",
+      "The App accepts the text of any length, and analyzes in terms of language rules, like number of words, characters, appearance of unique and duplicate words\nUsed Technologies: C# .Net, Windows Forms (WinForms)",
     image: "../Project_3.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/TextAnalyzerFinal",
     download: null
   },
   {
     title: "SportsPro. Sporting Technician Management System",
-    subtitle: "ASP.net",
+    subtitle: "",
     description:
-      "The Web App with CRUD operations that allows to technician to manage data of sport facilities.",
+      "The Web App with CRUD operations that allows to technician to manage data of sport facilities.\n Used Technology Stack: C# .NET, SQL, ASP.NET",
     image: "../Project_4.png",
     link: "https://github.com/yaroslavyatsyk/Projects/tree/master/SportsPro",
   },
