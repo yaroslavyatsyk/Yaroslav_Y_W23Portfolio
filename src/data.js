@@ -86,9 +86,10 @@ export const skills = [
   "C#",
   "Visual Studio",
   "MS SQL Server",
-  "WinForms",
-  "WPF",
+  "Windows Forms (WinForms)",
+  "Windows Presentation Foundation (WPF)",
   "SQL",
-  "ASP.net",
-  "Visual Paradigm"
+  "ASP.NET",
+  ".NET Core",
+  
 ];
