@@ -3,10 +3,11 @@ import React from "react";
 export default function Contact() {
  
   return (
+    
     <section id="contact" className="relative">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
       <div className="container px-5 py-5 mx-auto flex sm:flex-nowrap flex-wrap">
-        
+      <h1>Contact Information</h1>
       <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
