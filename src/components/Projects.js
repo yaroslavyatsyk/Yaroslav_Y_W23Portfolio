@@ -12,7 +12,7 @@ export default function Projects() {
             My Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Here are some of the projects.
+            Here is the list of the projects.
           </p>
         </div>
         <div className="flex flex-wrap -m-4" style={{borderRadius: '70%'}}>
