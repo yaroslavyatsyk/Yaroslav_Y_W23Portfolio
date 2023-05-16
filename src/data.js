@@ -91,5 +91,9 @@ export const skills = [
   "SQL",
   "ASP.NET",
   ".NET Core",
+  "Object Oriented Programming (OOP)",
+  ".NET Framework",
+  "Entity Framework",
+  
   
 ];
