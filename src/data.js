@@ -32,7 +32,7 @@ export const projects = [
     description:
       "The Web App with CRUD operations that allows to technician to manage data of sport facilities.\n Used Technology Stack: C# .NET, SQL, ASP.NET",
     image: "../Project_4.png",
-    link: "https://github.com/yaroslavyatsyk/Projects/tree/master/SportsPro",
+    link: "https://github.com/yaroslavyatsyk/SportsPro",
   },
   {
     title: "Number Analyzer App",
