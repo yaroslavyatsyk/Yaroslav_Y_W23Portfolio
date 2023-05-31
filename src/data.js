@@ -40,6 +40,13 @@ export const projects = [
     description: "The App accepts the number of any length, and analyzes in terms of language rules, like number of digits, maximum and minimum digit, the frequence of digits in a specific number\nUsed Technologies: C# .Net, Windows Presentation Foundation (WPF)",
     image: "../Project_5.png",
     link: "https://github.com/yaroslavyatsyk/Number-Analyser-App"
+  },
+  {
+    title: "Fraction App",
+    subtitle: "",
+    description: "The app allows to perform arithmetic operations on fractions, like: addiction, multiplication, and subtraction. \n Used Technologies: C# .Net, Windows Presentation Foundation (WPF)",
+    image: "../Project_6.png",
+    link: "https://github.com/yaroslavyatsyk/Fraction-App" 
   }
 ];
 export const capstone = {
