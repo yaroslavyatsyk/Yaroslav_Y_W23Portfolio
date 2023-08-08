@@ -12,7 +12,7 @@ export const projects = [
     title: "Quadratic Equation App",
     subtitle: "",
     description:
-      "The app allows to students to ease the learning process of quadratic equation in Algebra course. It uses all rules of the quadratic equation solving\n Used Technologies: C# .NET, Windows Presentation Foundation (WPF)",
+      "The app allows to students to ease the learning process of quadratic equation in Algebra course. It uses all rules of solving a quadratic equation\n Used Technologies: C# .NET, Windows Presentation Foundation (WPF)",
     image: "../Project_2.png",
     link: "https://github.com/yaroslavyatsyk/Quadric-Equatation",
 
