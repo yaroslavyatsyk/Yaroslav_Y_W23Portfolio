@@ -20,7 +20,6 @@ export default function App() {
       <Skills />
       <Resume/>
       <Cover/>
-      <Capstone />
       <Contact />
     </main>
   );
