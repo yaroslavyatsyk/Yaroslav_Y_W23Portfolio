@@ -20,20 +20,12 @@ export default function Bio() {
             />
             <br/>
             <p className="card-text mb-10 leading-relaxed">
-              My name is Yaroslav Yatsyk and I am a graduation student pursuing
-              an Ontario College Advanced Diploma in Computer Programming and
-              Analysis at Casa Loma Campus. As a full-time student, I have
-              completed 5 semesters of the program and am currently enrolled in
-              the sixth semester. My studies have given me a strong foundation
-              in IT essentials, computing logic, web development, object-oriented
-              programming, database management, and agile software development.
+              My name is Yaroslav Yatsyk, and I am a fresh graduate of the Computer Programming & Analysis Program
+              at George Brown College. I am a C# .NET Developer with a passion for creating software that is
+              user-friendly and easy to maintain. I am a quick learner and a team player who is always looking
+              for new challenges. I am looking for a position where I can apply my skills and knowledge to
+              create software that will help people and make their lives easier.
               <br />
-              As I approach graduation, I am excited to apply my skills and
-              knowledge to a professional setting. I am eager to take on new
-              challenges and contribute to the field of computer technology. My
-              portfolio showcases some of my projects and achievements throughout
-              my academic journey, and I look forward to expanding it as I
-              continue to grow in my career.
             </p>
           </div>
         </div>
