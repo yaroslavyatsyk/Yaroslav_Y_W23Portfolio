@@ -26,9 +26,7 @@ export default function Navbar() {
           <a href="#cover" className="mr-5 hover:text-white">
             Cover Letter
           </a>
-          <a href="#capstone" className="mr-5 hover:text-white">
-            Capstone Project
-          </a>
+          
           <a href="#contact" className="mr-5 hover:text-white">
             Contact
           </a>
