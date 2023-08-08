@@ -56,7 +56,7 @@ export const skills = [
   "Windows Forms (WinForms)",
   "Windows Presentation Foundation (WPF)",
   "SQL",
-  "ASP.NET",
+  "ASP.NET MVC",
   ".NET Core",
   "Object Oriented Programming (OOP)",
   ".NET Framework",
