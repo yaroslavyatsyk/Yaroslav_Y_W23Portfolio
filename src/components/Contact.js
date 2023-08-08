@@ -13,7 +13,7 @@ export default function Contact() {
             <div className="lg:w-1/2 px-6">
                   
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                ADDRESS
+                Location
               </h2>
               <p className="mt-1">
                <br />
