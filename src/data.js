@@ -21,7 +21,7 @@ export const projects = [
     title: "Text Analyzer App",
     subtitle: "",
     description:
-      "The app accepts the text of any length entered from a keyboard or read from a text file, and analyzes in terms of language rules, like number of words, characters, appearance of unique and duplicate words\nUsed Technologies: C# .NET, Windows Presentation Foundation (WPF)",
+      "The app accepts the text of any length entered from a keyboard or read from a text file, and analyzes in terms of language rules, like the number of words, characters, appearance of unique and/or duplicate words.\nUsed Technologies: C# .NET, Windows Presentation Foundation (WPF)",
     image: "../Project_3.png",
     link: "https://github.com/yaroslavyatsyk/TextAnalyzerApp",
  
