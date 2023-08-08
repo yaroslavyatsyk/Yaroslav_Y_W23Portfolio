@@ -8,7 +8,7 @@ import Skills from "./components/Skills";
 import Bio from "./components/Bio";
 import Resume from "./components/Resume";
 import Cover from "./components/CoverLetter";
-import Capstone from "./components/Capstone";
+
 
 export default function App() {
   return (
