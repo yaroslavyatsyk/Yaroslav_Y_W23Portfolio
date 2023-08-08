@@ -13,7 +13,7 @@ export default function Bio() {
             <img
               className="card-img-top object-center rounded mx-auto"
               alt="yaroslav"
-              src="../profile.jpeg"
+              src="https://www.dropbox.com/scl/fi/nkhewyfuj0hm5arjlip5a/IMG_20230615_224953_346.jpg?rlkey=3q1si165c933qn0jcmcbyodsd&dl=0"
               width={400}
               height={400}
               style={{ borderRadius: "70%" }}
