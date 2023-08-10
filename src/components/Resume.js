@@ -9,7 +9,7 @@ export default function Resume() {
             <br className="hidden lg:inline-block" />
           </h1>
 
-          <a className="text-indigo-400 leading-relaxed" href="https://www.dropbox.com/s/ys5q03l49auce18/Yaroslav%20Yatsyk%20.NET%20Developer.pdf?dl=1" download={true}><strong>Download Resume</strong></a>
+          <a className="text-indigo-400 leading-relaxed" href="https://www.dropbox.com/scl/fi/y55bxqzzfs998x93bk73f/Yaroslav-Yatsyk.-.NET-Developer.pdf?rlkey=et5jn1l19no3a0auzwyyz8eol&dl=1" download={true}><strong>Download Resume</strong></a>
 
 
 
