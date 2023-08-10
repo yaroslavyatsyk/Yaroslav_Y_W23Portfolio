@@ -14,12 +14,19 @@ export default function App() {
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
       <Navbar />
+      <br></br>
       <About />
+      <br></br>
       <Bio/>
+      <br></br>
       <Projects />
+      <br></br>
       <Skills />
+      <br></br>
       <Resume/>
+      <br></br>
       <Cover/>
+      <br></br>
       <Contact />
     </main>
   );
