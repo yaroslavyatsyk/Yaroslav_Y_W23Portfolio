@@ -33,6 +33,9 @@ export default function Navbar() {
           <a href="#projects" className="mr-5 hover:text-white">
             Projects
           </a>
+          <a href="#workexperience" className="mr-5 hover:text-white">
+            Work Experience
+          </a>
         </nav>
       </div>
     </header>

@@ -1,6 +1,6 @@
 import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
 import React from "react";
-import { frameworks, methodologies, programmingLanguages, skills, tools } from "../data";
+import { frameworks, methodologies, programmingLanguages, tools } from "../data";
 
 export default function Skills() {
   return (

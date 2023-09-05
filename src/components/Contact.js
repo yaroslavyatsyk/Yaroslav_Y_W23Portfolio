@@ -36,9 +36,8 @@ export default function Contact() {
           </div>
 
       <footer className="text-center mb-20" style={{margin: 'auto',height:'100px', paddingRight: '10px',paddingTop: '10px'}}>
-     <a className="text-indigo-400 leading-relaxed" href="https://www.linkedin.com/in/yaroslavyatsyk"><i class="fa fa-linkedin"></i></a>
-<br/>
- <a className="text-indigo-400 leading-relaxed" href="https://github.com/yaroslavyatsyk"><i class="fa fa-github"></i></a>
+     <a className="text-indigo-400 leading-relaxed" href="https://www.linkedin.com/in/yaroslavyatsyk"><i class="fa fa-linkedin" style={{marginRight: 10 + 'px'}}></i></a>
+ <a className="text-indigo-400 leading-relaxed" href="https://github.com/yaroslavyatsyk"><i class="fa fa-github" style={{marginLeft: 10 + 'px'}}></i></a>
 
       </footer>
     </section>
