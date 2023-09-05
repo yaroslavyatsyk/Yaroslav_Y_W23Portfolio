@@ -8,7 +8,7 @@ export default function Bio() {
           <div className="card-body mb-5">
             <h1 className="card-title title-font sm:text-4xl text-3xl mb-5 font-medium text-white text-center">
               Bio
-              <br className="hidden lg:inline-block" />
+             
             </h1>
             <img
               className="card-img-top object-center rounded mx-auto"

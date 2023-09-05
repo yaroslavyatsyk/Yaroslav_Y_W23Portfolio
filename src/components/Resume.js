@@ -6,7 +6,6 @@ export default function Resume() {
         <div className="text-center mb-5">
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
             Resume
-            <br className="hidden lg:inline-block" />
           </h1>
 
           <a className="text-indigo-400 leading-relaxed" href="https://www.dropbox.com/scl/fi/y55bxqzzfs998x93bk73f/Yaroslav-Yatsyk.-.NET-Developer.pdf?rlkey=et5jn1l19no3a0auzwyyz8eol&dl=1" download={true}><strong>Download Resume</strong></a>
