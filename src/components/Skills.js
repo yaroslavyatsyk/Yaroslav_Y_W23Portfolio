@@ -1,6 +1,6 @@
 import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
 import React from "react";
-import { skills } from "../data";
+import { frameworks, methodologies, programmingLanguages, skills, tools } from "../data";
 
 export default function Skills() {
   return (
@@ -12,11 +12,14 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            There is the list of skills that is updating time by time.
+            There is the list of skills, tools, and technologies  that is updating time by time.
           </p>
         </div>
+        <div className="text-center">
+        <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Programming languages</h3>
+        </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
-          {skills.map((skill) => (
+          {programmingLanguages.map((skill) => (
             <div key={skill} className="p-2 sm:w-1/2 w-full">
               <div className="bg-gray-800 rounded flex p-4 h-full items-center">
                 <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" />
@@ -27,6 +30,53 @@ export default function Skills() {
             </div>
           ))}
         </div>
+        <div className="text-center">
+        <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Frameworks</h3>
+        </div>
+        <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
+          {frameworks.map((framework) => (
+            <div key={framework} className="p-2 sm:w-1/2 w-full">
+              <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+                <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" />
+                <span className="title-font font-medium text-white">
+                  {framework}
+                </span>
+              </div>
+            </div>  
+          ))}
+        </div>
+        <div className="text-center">
+        <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Tools</h3>
+        </div>
+        <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
+          {tools.map((tool) => (
+            <div key={tool} className="p-2 sm:w-1/2 w-full">
+              <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+                <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" />
+                <span className="title-font font-medium text-white">
+                  {tool}
+                </span>
+
+                </div>
+                </div>
+          ))}
+          </div>
+          <div className="text-center">
+          <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Methodologies</h3>
+          </div>
+          <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
+            {methodologies.map((methodology) => (
+              <div key={methodology} className="p-2 sm:w-1/2 w-full">
+                <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+                  <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" />
+                  <span className="title-font font-medium text-white">
+                    {methodology}
+                  </span>
+
+                  </div>
+                  </div>
+            ))}
+            </div>
       </div>
     </section>
   );

@@ -49,19 +49,7 @@ export const projects = [
     link: "https://github.com/yaroslavyatsyk/Fraction-App" 
   }
 ];
-export const skills = [
-  "C#",
-  "Visual Studio",
-  "Microsoft SQL Server",
-  "Windows Forms (WinForms)",
-  "Windows Presentation Foundation (WPF)",
-  "SQL",
-  "ASP.NET MVC",
-  ".NET Core",
-  "Object Oriented Programming (OOP)",
-  ".NET Framework",
-  "Entity Framework",
-  "Visual Studio Code"
-  
-  
-];
+export const  programmingLanguages = ["C#", "SQL"];
+export const frameworks = ["ASP.NET MVC", "Windows Presentation Foundation (WPF)", "Entity Framework", ".NET Core", ".NET", "LINQ"];
+export const tools = ["Visual Studio", "Visual Studio Code", "Git", "GitHub", "Microsoft SQL Server Management Studio", "Microsoft SQL Server", "Microsoft Office", "UML (Unified Modeling Language)"];
+export const methodologies = ["SDLC (Software Development Life Cycle)", "OOP (Object-Oriented Programming)", "MVC (Model-View-Controller)", "Waterfall", "Spiral"];
