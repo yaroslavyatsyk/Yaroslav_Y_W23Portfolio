@@ -7,8 +7,13 @@ export default function Contact() {
     <section id="contact" className="relative">
       
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+      <div className="text-center mb-5">
+        <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
+          Let's Connect!
+        </h1>
+        </div>
       <div className="container px-5 py-5 mx-auto flex sm:flex-nowrap flex-wrap justify-center items-center">
-   
+        
       <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
                   
