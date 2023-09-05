@@ -59,7 +59,7 @@ export const workexperiences = [
     title: ".NET Developer Intern",
     company: "Postalgia Inc",
     description: "Increased the speed of character tracer processing by 15%",
-    date: "March 2020 - September 2020",
+    date: "March 2020  September 2020",
   },
   {
     title: ".NET Developer Intern",
@@ -68,5 +68,5 @@ export const workexperiences = [
       "Increased the efficiency of tasks’ performance by 25%.\n",
       "Improved the team’s work efficiency by 20%"
     ],
-    date: "June 2018 - June 2018",
+    date: "June 2018  June 2018",
   }];
