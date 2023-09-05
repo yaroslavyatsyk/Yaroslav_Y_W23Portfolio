@@ -65,7 +65,7 @@ export const workexperiences = [
     title: ".NET Developer Intern",
     company: "Sigma Software Group",
     description: [
-      "Increased the efficiency of tasks’ performance by 25%.",
+      "Increased the efficiency of tasks’ performance by 25%.\n",
       "Improved the team’s work efficiency by 20%"
     ],
     date: "June 2018 - June 2018",
