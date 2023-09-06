@@ -21,7 +21,6 @@ export default function Contact() {
                 LOCATION
               </h2>
               <p className="mt-1">
-               <br />
                 Toronto, Canada, Ontario
               </p>
             </div>
