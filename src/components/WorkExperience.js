@@ -1,6 +1,6 @@
 import React from "react";
 import { workexperiences } from "../data";
-import { BadgeCheckIcon } from "@heroicons/react/solid";
+
 
 export default function WorkExperience() {
    return (
