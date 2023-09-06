@@ -58,7 +58,8 @@ export const workexperiences = [
   {
     title: ".NET Developer Intern",
     company: "Postalgia Inc",
-    descriptions: ["Increased the speed of character tracer processing by 15%"],
+    descriptions: ["Increased the speed of character tracer processing by 15%",
+  "Used .NET technology stack to develop the module for character tracing",],
     date: "March 2020 - September 2020",
   },
   {
@@ -66,7 +67,9 @@ export const workexperiences = [
     company: "Sigma Software Group",
     descriptions: [
       "Increased the efficiency of tasks’ performance by 25%.\n",
-      "Improved the team’s work efficiency by 20%"
+      "Improved the team’s work efficiency by 20%",
+      "Used .NET technology stack to develop the controller for CRUD operations with data",
+      "Used SQL to create and manage the database"
     ],
-    date: "June 2018 - June 2018",
+    date: "June 2018 - July 2018",
   }];
