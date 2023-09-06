@@ -62,7 +62,7 @@ export default function Skills() {
           ))}
           </div>
           <div className="text-center">
-          <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Methodologies</h3>
+          <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Methodologies and Concepts</h3>
           </div>
           <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
             {methodologies.map((methodology) => (
