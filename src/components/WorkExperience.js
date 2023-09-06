@@ -25,7 +25,7 @@ export default function WorkExperience() {
                             </span>
                             <br></br>
                             <span className="title-font font-medium text-white" style={{padding: 5 + 'px'}}>
-                                {workexperience.position}
+                                {workexperience.title}
                                 </span>
                             <br/> <br/>
                             <span className="title-font font-medium text-white" style={{padding: 5 + 'px'}}>
