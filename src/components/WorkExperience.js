@@ -15,7 +15,7 @@ export default function WorkExperience() {
                 </p>
             </div>
           
-            <div className="flex flex-wrap justify-center">
+            <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2 ">
                 {workexperiences.map((workexperience) => (
                     <div key={workexperience} className="p-2 sm:w-1/2 w-full">
                         <div className="bg-gray-800 rounded flex p-4 h-full items-center">
@@ -33,7 +33,13 @@ export default function WorkExperience() {
                                 </span>
                             <br></br>
                             <span className="title-font font-medium text-white" style={{padding: 10 + 'px'}}>
-                                {workexperience.description}
+
+                                {workexperience.descriptions.map((description) => (
+                                    <li key={description} className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
+                                        {description}
+                                    </li>
+                                ))}
+
                                 </span>
 
                         </div>
