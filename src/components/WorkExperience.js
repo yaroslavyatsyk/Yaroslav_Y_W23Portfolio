@@ -36,7 +36,7 @@ export default function WorkExperience() {
                             <span className="title-font font-medium text-white" style={{padding: 2 + 'px'}}>
                                 Description:
                                 {workexperience.descriptions.map((description) => (
-                                    <li key={description} className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto" style={{margin: 5 + 'px', textIndent: 8 + 'px'}}>
+                                    <li key={description} className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto" style={{margin: 5 + 'px', textIndent: 15 + 'px'}}>
                                         {description}
                                     </li>
                                 ))}
