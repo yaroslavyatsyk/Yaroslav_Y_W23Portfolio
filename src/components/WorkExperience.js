@@ -20,19 +20,19 @@ export default function WorkExperience() {
                     <div key={workexperience} className="p-2 sm:w-1/2 w-full">
                         <div className="bg-gray-800 rounded p-4 h-full items-center flex-auto">
                             <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" />
-                            <span className="title-font font-medium text-white" style={{padding: 5 + 'px'}}>
+                            <span className="title-font font-medium text-white" style={{padding: 3 + 'px'}}>
                                 {workexperience.company}
                             </span>
                             <br></br>
-                            <span className="title-font font-medium text-white" style={{padding: 5 + 'px'}}>
+                            <span className="title-font font-medium text-white" style={{padding: 3 + 'px'}}>
                                 {workexperience.title}
                                 </span>
-                            <br/> <br/>
-                            <span className="title-font font-medium text-white" style={{padding: 5 + 'px'}}>
+                            <br/>
+                            <span className="title-font font-medium text-white" style={{padding: 3 + 'px'}}>
                                 {workexperience.date}
                                 </span>
                             <br></br>
-                            <span className="title-font font-medium text-white" style={{padding: 5 + 'px'}}>
+                            <span className="title-font font-medium text-white" style={{padding: 3 + 'px'}}>
 
                                 {workexperience.descriptions.map((description) => (
                                     <li key={description} className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
