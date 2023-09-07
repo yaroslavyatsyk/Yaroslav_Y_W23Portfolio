@@ -27,6 +27,7 @@ export default function Projects() {
           className="w-full h-full object-cover object-center rounded"
           src={project.image}
           style={{ borderRadius: '70%',
+          filter: 'brightness(70%)'
         }}
         />
         <div className="absolute inset-0 flex flex-col items-center justify-center p-4 bg-gray-900 bg-opacity-50 hover:bg-opacity-100">
