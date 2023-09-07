@@ -7,7 +7,6 @@ import Skills from "./components/Skills";
 
 import Bio from "./components/Bio";
 import Resume from "./components/Resume";
-import Cover from "./components/CoverLetter";
 import WorkExperience from "./components/WorkExperience";
 
 
@@ -24,7 +23,6 @@ export default function App() {
   
       <Resume/>
  
-      <Cover/>
 
       <WorkExperience/>
 

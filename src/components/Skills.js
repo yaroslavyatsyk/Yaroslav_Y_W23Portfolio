@@ -8,15 +8,15 @@ export default function Skills() {
       <div className="container px-5 py-5 mx-auto">
         <div className="text-center mb-5">
           <ChipIcon className="w-10 inline-block mb-4" />
-          <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
-            Skills &amp; Technologies
+          <h1 className="sm:text-4xl text-3xl font-small  text-white mb-4">
+            Skills, Programming languages &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            There is the list of skills, tools, and technologies  that is updating time by time.
+            There is the list of skills, tools, languages, and technologies  that is updating time by time.
           </p>
         </div>
         <div className="text-center">
-        <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Programming languages</h3>
+        <h6 className="sm:text-4xl text-3xl font-small  text-white mb-4">Programming languages</h6>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {programmingLanguages.map((skill) => (
@@ -31,7 +31,7 @@ export default function Skills() {
           ))}
         </div>
         <div className="text-center">
-        <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Frameworks</h3>
+        <h6 className="sm:text-4xl text-3xl font-small  text-white mb-4">Frameworks</h6>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {frameworks.map((framework) => (
@@ -46,7 +46,7 @@ export default function Skills() {
           ))}
         </div>
         <div className="text-center">
-        <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Tools</h3>
+        <h6 className="sm:text-4xl text-3xl font-small  text-white mb-4">Tools</h6>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {tools.map((tool) => (
@@ -62,7 +62,7 @@ export default function Skills() {
           ))}
           </div>
           <div className="text-center">
-          <h3 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">Methodologies and Concepts</h3>
+          <h6 className="sm:text-4xl text-3xl font-medium  text-white mb-4">Methodologies and Concepts</h6>
           </div>
           <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
             {methodologies.map((methodology) => (
