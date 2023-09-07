@@ -12,7 +12,7 @@ export default function Projects() {
             My Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Here is the list of the projects.
+            Here is the list of school and personal projects.
           </p>
         </div>
         <div className="flex flex-wrap w-full h-full -m-4">
