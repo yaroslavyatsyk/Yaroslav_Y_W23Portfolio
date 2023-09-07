@@ -16,7 +16,7 @@ export default function Skills() {
           </p>
         </div>
         <div className="text-center">
-        <h6 className="sm:text-4xl text-3xl font-small  text-white mb-1">Programming languages</h6>
+        <h6 className="sm:text-4xl text-3xl font-small  text-white">Programming languages</h6>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {programmingLanguages.map((skill) => (
@@ -31,7 +31,7 @@ export default function Skills() {
           ))}
         </div>
         <div className="text-center">
-        <h6 className="sm:text-4xl text-3xl font-small  text-white mb-1">Frameworks</h6>
+        <h6 className="sm:text-4xl text-3xl font-small  text-white">Frameworks</h6>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {frameworks.map((framework) => (
@@ -46,7 +46,7 @@ export default function Skills() {
           ))}
         </div>
         <div className="text-center">
-        <h6 className="sm:text-4xl text-3xl font-small  text-white mb-1">Tools</h6>
+        <h6 className="sm:text-4xl text-3xl font-small  text-white">Tools</h6>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {tools.map((tool) => (
@@ -62,7 +62,7 @@ export default function Skills() {
           ))}
           </div>
           <div className="text-center">
-          <h6 className="sm:text-4xl text-3xl font-medium  text-white mb-1">Methodologies and Concepts</h6>
+          <h6 className="sm:text-4xl text-3xl font-medium  text-white">Methodologies and Concepts</h6>
           </div>
           <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
             {methodologies.map((methodology) => (
