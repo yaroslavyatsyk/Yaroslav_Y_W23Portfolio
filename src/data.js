@@ -31,7 +31,7 @@ export const projects = [
     subtitle: "",
     description:
       "The Web App with CRUD operations that allows to technician to manage data of sport facilities.\n Used Technology Stack: C# .NET, SQL, ASP.NET MVC",
-    image: "https://www.dropbox.com/scl/fi/o9hdqvfwnqqvc1tenizuh/Project_4.png?rlkey=u2tux8ui98ahec0k74o8ha9xe&raw=1",
+    image: "https://www.dropbox.com/scl/fi/buu4re0lno5tkd4xp9zn7/Project_4.png?rlkey=2zgco2cto10bqlphea2f8xcp9&raw=1",
     link: "https://github.com/yaroslavyatsyk/SportsPro",
   },
   {
