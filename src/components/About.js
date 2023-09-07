@@ -7,7 +7,7 @@ export default function About() {
         <div className="text-center mb-5">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Yaroslav Yatsyk.
-            C# .NET Developer
+            .NET Developer
           </h1>
           <p className="mb-8 leading-relaxed">
           Welcome to the world of technologies!
