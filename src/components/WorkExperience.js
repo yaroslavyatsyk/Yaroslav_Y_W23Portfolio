@@ -11,7 +11,7 @@ export default function WorkExperience() {
                     Work Experience
                 </h1>
                 <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                    There is the list of my work experience.
+                    There is the list of work experience.
                 </p>
             </div>
           
