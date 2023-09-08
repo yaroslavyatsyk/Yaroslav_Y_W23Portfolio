@@ -21,10 +21,10 @@ export default function Projects() {
       href={project.link}
       key={project.image}
       className="sm:w-1/2 w-full p-4">
-      <div className="relative w-full h-full" style={{ borderRadius: '70%' }}>
+      <div className="relative w-full h-full flex-auto" style={{ borderRadius: '70%' }}>
         <img
           alt="gallery"
-          className="w-full h-full object-cover object-center rounded"
+          className="w-full h-full object-cover object-center rounded flex-auto"
           src={project.image}
           style={{ borderRadius: '70%',
           filter: 'brightness(70%)'
