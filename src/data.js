@@ -66,7 +66,7 @@ export const workexperiences = [
     title: ".NET Developer Intern",
     company: "Postalgia Inc",
     descriptions: ["Increased the speed of character tracer processing by 15%",
-  "Used .NET technology stack to develop the module for character tracing",],
+  "Used .NET technology stack to develop the module for character tracing"],
     date: "March 2020 - September 2020",
   },
   {
