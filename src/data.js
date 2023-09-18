@@ -47,6 +47,13 @@ export const projects = [
     description: "The app allows to perform basic arithmetic operations on fractions, like: addition, multiplication, division, and subtraction. \n Used Technologies and Tools: C# .NET, Windows Presentation Foundation (WPF), Visual Studio",
     image: "https://www.dropbox.com/scl/fi/54yoe05n5nxovavqdrghg/Project_6.png?rlkey=bx7mgfnmqdoca0y0ijx6bakq8&raw=1",
     link: "https://github.com/yaroslavyatsyk/Fraction-App" 
+  },
+  {
+    title: "Assignment Management System",
+    subtitle: "",
+    description: "The Web App with CRUD operations that allows to users to manage their assignments or tasks.\n Used Technologies and Tools: C# .NET, SQL, ASP.NET MVC, Visual Studio, Microsoft SQL Server Management Studio, Microsoft SQL Server",
+    link: "https://github.com/yaroslavyatsyk/ToDo-Web-App",
+    image: "https://www.dropbox.com/scl/fi/4lf2h3g5uno95487ajrt8/Project_7.png?rlkey=pll6sn6q2gi1i90buj9ztobhs&raw=1"
   }
 ];
 export const  programmingLanguages = ["C#", "SQL"];
