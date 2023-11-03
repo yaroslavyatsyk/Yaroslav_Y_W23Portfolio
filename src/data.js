@@ -65,18 +65,21 @@ export const workexperiences = [
   {
     title: ".NET Developer Intern",
     company: "Postalgia Inc",
-    descriptions: ["Increased the speed of character tracer processing by 15%",
-  "Used .NET technology stack to develop the module for character tracing"],
+    descriptions: ["Integrated the small module for character tracing by using C# programming language and .NET framework.",
+  "Increased the speed of data processing by 10% through optimization of algorithm to extract letters from images.",
+  "Prepared all reports of software performance."
+
+],
     date: "March 2020 - September 2020",
   },
   {
     title: ".NET Developer Intern",
     company: "Sigma Software Group",
     descriptions: [
-      "Increased the efficiency of tasks’ performance by 25%.\n",
-      "Improved the team’s work efficiency by 20%",
-      "Used .NET technology stack to develop the controller for CRUD operations with data",
-      "Used SQL to create and manage the database"
+      "Implemented the database for Team Management System by MS SQL Server.\n",
+      "Developed the back-end module for Team Management System by using .NET Technology.",
+      "Used Entity Framework for connection between the Database and the back-end part.",
+      "Increased the efficiency of teamwork by 25% through using effective algorithms of task deployment. "
     ],
     date: "June 2018 - August 2018",
   }];
