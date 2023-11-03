@@ -78,5 +78,5 @@ export const workexperiences = [
       "Used .NET technology stack to develop the controller for CRUD operations with data",
       "Used SQL to create and manage the database"
     ],
-    date: "June 2018 - July 2018",
+    date: "June 2018 - August 2018",
   }];
