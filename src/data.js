@@ -57,7 +57,7 @@ export const projects = [
   }
 ];
 export const  programmingLanguages = ["C#", "SQL"];
-export const frameworks = ["ASP.NET MVC", "Windows Presentation Foundation (WPF)", "Entity Framework", ".NET Core", ".NET", "LINQ"];
+export const frameworks = ["ASP.NET MVC", "Windows Presentation Foundation (WPF)", "Entity Framework", ".NET Core", ".NET"];
 export const tools = ["Visual Studio", "Visual Studio Code", "Git", "GitHub", "Microsoft SQL Server Management Studio", "Microsoft SQL Server", "Microsoft Office", "UML (Unified Modeling Language)", "Vercel", "Azure"];
 export const methodologies = ["SDLC (Software Development Life Cycle)", "OOP (Object-Oriented Programming)", "MVC (Model-View-Controller)", "Waterfall", "Spiral", "Agile (Scrum)"];
 
