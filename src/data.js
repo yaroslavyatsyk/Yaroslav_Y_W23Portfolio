@@ -64,7 +64,7 @@ export const methodologies = ["SDLC (Software Development Life Cycle)", "OOP (Ob
 export const workexperiences = [
   {
     title: ".NET Developer Intern",
-    company: "Postalgia Inc",
+    company: "Postalgia Ink",
     descriptions: ["Integrated the small module for character tracing by using C# programming language and .NET framework.",
   "Increased the speed of data processing by 10% through optimization of algorithm to extract letters from images.",
   "Prepared all reports of software performance."
