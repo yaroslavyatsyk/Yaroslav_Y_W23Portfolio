@@ -22,7 +22,7 @@ export default function Bio() {
             <p className="card-text mb-10 leading-relaxed text-center" style={{maxWidth: '100%'}} >
               My name is Yaroslav Yatsyk, and I am a fresh graduate of the Computer Programming & Analysis Program
               at George Brown College.<br></br> I am a C# .NET Developer with a passion for creating software that is
-              user-friendly and easy to maintain.<br></br> 
+              user-friendly, easy to use, and maintain.<br></br> 
               I am a quick learner and a team player who is always looking
               for new challenges.<br></br> I am looking for a position where I can apply my skills and knowledge to
               create software that will help people and make their lives easier, and to grown professionally.<br></br>
