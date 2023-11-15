@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "",
     description:
       "The application demonstrates arithmetic operations om matrices, like: addition, multiplication, and subtraction. \n Used Technologies and Tools: C# .NET, Windows Presentation Foundation (WPF), Visual Studio",
-    image: "https://www.dropbox.com/scl/fi/b8gewdzb84uxlsgu84b5o/Project_1.png?rlkey=bo2in2v1szopery1bnqir3gsj&raw=1",
+    video: "https://www.dropbox.com/scl/fi/ahpd0qxsa1y86ms4oeonl/Matrix-Calculator-Demo.mp4?rlkey=g509mpk19v96ah25ix6p6nspm&raw=1",
     link: "https://github.com/yaroslavyatsyk/Matrix-Calculator-App",
    
   },
@@ -13,7 +13,7 @@ export const projects = [
     subtitle: "",
     description:
       "The app allows to students to ease the learning process of quadratic equation in Algebra course. It uses all rules of solving a quadratic equation\n Used Technologies and Tools: C# .NET, Windows Presentation Foundation (WPF), Visual Studio",
-    image: "https://www.dropbox.com/scl/fi/gr58vdf1mt0vnfjnidbr0/Project_2.png?rlkey=xnzl0ko4v227yd21ienlyzo7l&raw=1",
+    video: "https://www.dropbox.com/scl/fi/65f5y03mfol2vwj85q38s/Quadratic-Equation-Demo.mp4?rlkey=haqfzmzbc04ezt2yh3ax8sib3&raw=1",
     link: "https://github.com/yaroslavyatsyk/Quadric-Equatation",
 
   },
@@ -22,7 +22,7 @@ export const projects = [
     subtitle: "",
     description:
       "The app accepts the text of any length entered from a keyboard or read from a text file, and analyzes in terms of language rules, like the number of words, characters, appearance of unique and/or duplicate words.\nUsed Technologies and Tools: C# .NET, Windows Presentation Foundation (WPF), Visual Studio",
-    image: "https://www.dropbox.com/scl/fi/l2zjpgz2wdemkw9n3z1bp/Project_3.png?rlkey=aok9kd4h15zm3cgbs8u44e0nh&raw=1",
+    video: "https://www.dropbox.com/scl/fi/0abv0wkz2yuu15nn05un2/Text-Analyzer-Demo.mp4?rlkey=841g39mhpl048m15y4nm1z9xy&raw=1",
     link: "https://github.com/yaroslavyatsyk/TextAnalyzerApp",
  
   },
@@ -31,21 +31,21 @@ export const projects = [
     subtitle: "",
     description:
       "The Web App with CRUD operations that allows to technician to manage data of sport facilities.\n Used Technologies and Tools: C# .NET, SQL, ASP.NET MVC, Visual Studio, Microsoft SQL Server Management Studio, Microsoft SQL Server",
-    image: "https://www.dropbox.com/scl/fi/buu4re0lno5tkd4xp9zn7/Project_4.png?rlkey=2zgco2cto10bqlphea2f8xcp9&raw=1",
+    video: "https://www.dropbox.com/scl/fi/3eaufi4g55luc39xew20c/Sports-Pro-Demo.mp4?rlkey=csupq6puy682v7cfkjbtkgb9r&raw=1",
     link: "https://github.com/yaroslavyatsyk/SportsPro",
   },
   {
     title: "Number Analyzer App",
     subtitle: "",
     description: "The app accepts the number of any length, and analyzes in terms of language rules, like number of digits, maximum and minimum digit, the frequence of digits in a specific number\nUsed Technologies and Tools: C# .NET, Windows Presentation Foundation (WPF), Visual Studio",
-    image: "https://www.dropbox.com/scl/fi/qi3fw8ltaexm74gxs4iwx/Project_5.png?rlkey=8g2ytp5fyi16hwr5ftlq61hmh&raw=1",
+    video: "https://www.dropbox.com/scl/fi/vymzh8u2uo5molyojmil6/Number-Analysis-Demo.mp4?rlkey=7ka30newh3skeb36thwci0edb&raw=1",
     link: "https://github.com/yaroslavyatsyk/Number-Analyser-App"
   },
   {
     title: "Fraction App",
     subtitle: "",
     description: "The app allows to perform basic arithmetic operations on fractions, like: addition, multiplication, division, and subtraction. \n Used Technologies and Tools: C# .NET, Windows Presentation Foundation (WPF), Visual Studio",
-    image: "https://www.dropbox.com/scl/fi/54yoe05n5nxovavqdrghg/Project_6.png?rlkey=bx7mgfnmqdoca0y0ijx6bakq8&raw=1",
+    video: "https://www.dropbox.com/scl/fi/thv97zqwtpkbqcqiytred/Fraction-App-Demo.mp4?rlkey=q8vwb1eexj6kzwrfojy7y00i7&raw=1",
     link: "https://github.com/yaroslavyatsyk/Fraction-App" 
   },
   {
@@ -53,7 +53,7 @@ export const projects = [
     subtitle: "",
     description: "The Web App with CRUD operations that allows to users to manage their assignments or tasks.\n Used Technologies and Tools: C# .NET, SQL, ASP.NET MVC, Visual Studio, Microsoft SQL Server Management Studio, Microsoft SQL Server",
     link: "https://github.com/yaroslavyatsyk/ToDo-Web-App",
-    image: "https://www.dropbox.com/scl/fi/4lf2h3g5uno95487ajrt8/Project_7.png?rlkey=pll6sn6q2gi1i90buj9ztobhs&raw=1"
+    video: "https://www.dropbox.com/scl/fi/nswp93dr903f1j25jkd5g/Assignment-Management-System-Demo.mp4?rlkey=mahk5y636kw1sm8d1hpno5fox&raw=1"
   }
 ];
 export const  programmingLanguages = ["C#", "SQL"];

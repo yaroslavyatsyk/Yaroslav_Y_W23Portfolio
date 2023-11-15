@@ -22,22 +22,20 @@ export default function Projects() {
       key={project.image}
       className="sm:w-1/2 w-full p-4">
       <div className="relative w-full h-full flex-auto" style={{ borderRadius: '70%' }}>
-        <img
-          alt="gallery"
-          className="w-full h-full object-cover object-center rounded flex-auto"
-          src={project.image}
-          style={{ borderRadius: '70%',
-          filter: 'brightness(70%)'
-        }}
-        />
+      
+      <video loop autoPlay muted className="w-full h-full object-cover object-center rounded-lg shadow-md">
+
+        <source src={project.video} type="video/mp4" />
+
+      </video>
         <div className="absolute inset-0 flex flex-col items-center justify-center p-4 bg-gray-900 bg-opacity-50 hover:bg-opacity-100">
           <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
             {project.subtitle}
           </h2>
-          <h1 className="title-font text-lg font-large text-white mb-3">
+          <h1 className="title-font text-lg font-small text-white mb-3">
             {project.title}
           </h1>
-          <p className="leading-relaxed text-center font-large text-white mb-3">{project.description}</p>
+          <p className="leading-relaxed text-center font-small text-white mb-3">{project.description}</p>
         </div>
       </div>
     </a>
