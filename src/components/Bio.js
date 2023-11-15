@@ -25,7 +25,7 @@ export default function Bio() {
               user-friendly and easy to maintain.<br></br> 
               I am a quick learner and a team player who is always looking
               for new challenges.<br></br> I am looking for a position where I can apply my skills and knowledge to
-              create software that will help people and make their lives easier, and to have a professional growth.
+              create software that will help people and make their lives easier, and to grown professionally.<br></br>
               <br />  
             </p>
           </div>
