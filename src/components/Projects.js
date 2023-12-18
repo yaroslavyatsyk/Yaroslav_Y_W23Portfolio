@@ -21,7 +21,7 @@ export default function Projects() {
       href={project.link}
       key={project.image}
       className="sm:w-1/2 w-full p-4">
-      <div className="absolute w-full h-full flex-auto" style={{ borderRadius: '70%' }}>
+      <div className="relative w-full h-full flex-auto" style={{ borderRadius: '70%' }}>
       
       <video preload="none" loop playsInline autoPlay muted className="w-full h-full object-cover object-center rounded-lg shadow-md">
 
