@@ -23,11 +23,13 @@ export default function Projects() {
       className="sm:w-1/2 w-full p-4">
       <div className="relative w-full h-full flex-auto" style={{ borderRadius: '70%' }}>
       
+      <div className="absolute inset-0 w-full h-full object-cover object-center rounded-lg shadow-md">
       <video preload="none" loop playsInline autoPlay muted className="w-full h-full object-cover object-center rounded-lg shadow-md">
 
         <source src={project.video} type="video/mp4" />
 
       </video>
+      </div>
         <div className="absolute inset-0 flex flex-col items-center justify-center p-4 bg-gray-900 bg-opacity-50 hover:bg-opacity-100">
           <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
             {project.subtitle}
