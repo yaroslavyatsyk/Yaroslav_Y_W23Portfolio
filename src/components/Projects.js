@@ -23,7 +23,7 @@ export default function Projects() {
       className="sm:w-1/2 w-full p-4">
       <div className="relative w-full h-full flex-auto" style={{ borderRadius: '70%' }}>
       
-      <video style={{height: 500, width: 500}} loop playsInline autoPlay muted className="w-full h-full object-cover object-center rounded-lg shadow-md">
+      <video loop playsInline autoPlay muted className="w-full h-full object-cover object-center rounded-lg shadow-md">
 
         <source src={project.video} type="video/mp4" />
 
