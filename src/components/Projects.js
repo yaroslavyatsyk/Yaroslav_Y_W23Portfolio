@@ -27,6 +27,10 @@ export default function Projects() {
 
         <source src={project.video} type="video/mp4" />
 
+        <source src={project.video} type="video/ogg" />
+
+        <source src={project.video} type="video/webm" />
+
       </video>
         <div className="absolute inset-0 flex flex-col items-center justify-center p-4 bg-gray-900 bg-opacity-50 hover:bg-opacity-100">
           <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
