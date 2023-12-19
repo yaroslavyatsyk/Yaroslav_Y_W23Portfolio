@@ -26,7 +26,7 @@ export default function Projects() {
       className="sm:w-1/2 w-full p-4">
       <div className="relative w-full h-full flex-auto">
       
-      <video preload="none" loop playsInline autoPlay muted className="w-full h-full object-cover object-center rounded flex-auto">
+      <video preload="none" loop playsInline autoPlay muted className="w-2000 h-2000 object-cover object-center rounded flex-auto">
 
 
         <source src={project.video} type="video/mp4"/>
