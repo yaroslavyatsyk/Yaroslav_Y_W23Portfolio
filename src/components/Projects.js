@@ -21,7 +21,7 @@ export default function Projects() {
       href={project.link}
       key={project.video}
       className="sm:w-1/2 w-full p-4">
-      <div className="relative w-full h-full flex-auto">
+      <div className="relative w-500 h-500 flex-auto">
       
       <video preload="none" loop playsInline autoPlay muted className="w-full h-full object-cover object-center rounded flex-auto">
 
