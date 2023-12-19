@@ -19,30 +19,28 @@ export default function Projects() {
   {projects.map((project) => (
     <a
       href={project.link}
-      key={project.image}
+      key={project.video}
       className="sm:w-1/2 w-full p-4">
       <div className="relative w-full h-full flex-auto">
       
       <video preload="none" loop playsInline autoPlay muted className="w-full h-full object-cover object-center rounded flex-auto">
 
-        <source src={project.video} type="video/mp4" />
 
-        <source src={project.video} type="video/ogg" />
-
-        <source src={project.video} type="video/webm" />
+        <source src={project.video} type="video/mp4"/>
 
       </video>
+      <br/>
         <div className="absolute inset-0 flex flex-col items-center justify-center p-4 bg-gray-900 bg-opacity-50 hover:bg-opacity-100">
-          <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
-            {project.subtitle}
-          </h2>
+          
           <h1 className="title-font text-lg font-small text-white mb-3">
             {project.title}
           </h1>
           <p className="leading-relaxed text-center font-small text-white mb-3">{project.description}</p>
+          <br/>
         </div>
       </div>
     </a>
+    
   ))}
 </div>
 
