@@ -14,6 +14,7 @@ export default function Projects() {
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Here is the list of school and personal projects.
           </p>
+          <br/>
         </div>
         <div className="flex flex-wrap w-full h-full -m-4">
   {projects.map((project) => (
@@ -30,7 +31,7 @@ export default function Projects() {
 
       </video>
       <br/>
-        <div className="absolute inset-0 flex flex-col items-center justify-center p-4 bg-gray-900 bg-opacity-50 hover:bg-opacity-100">
+        <div className="relative inset-0 flex flex-col items-center justify-center p-4 bg-gray-900 bg-opacity-50 hover:bg-opacity-100">
           
           <h1 className="title-font text-lg font-small text-white mb-3">
             {project.title}
