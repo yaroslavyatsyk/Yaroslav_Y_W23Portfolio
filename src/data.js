@@ -55,7 +55,7 @@ export const projects = [
     link: "https://github.com/yaroslavyatsyk/ToDo-Web-App",
     video: "https://www.dropbox.com/scl/fi/ccf41kcgbhztxlbpmhsrr/Assignment-Management-System-Demo.mp4?rlkey=c7xgudyw47fr98ti221z6y8np&raw=1"
   }
-];
+].sort((a, b) => a.title > b.title ? 1 : -1);
 export const  programmingLanguages = ["C#", "SQL"];
 export const frameworks = ["ASP.NET MVC", "Windows Presentation Foundation (WPF)", "Entity Framework", ".NET Core", ".NET"];
 export const tools = ["Visual Studio", "Visual Studio Code", "Git", "GitHub", "Microsoft SQL Server Management Studio", "Microsoft SQL Server", "Microsoft Office", "UML (Unified Modeling Language)", "Vercel", "Azure"];

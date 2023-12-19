@@ -2,7 +2,7 @@ import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
 import { projects } from "../data";
 
-projects.sort((a, b) => (a.title > b.title ? 1 : -1));
+
 
 export default function Projects() {
   return (
