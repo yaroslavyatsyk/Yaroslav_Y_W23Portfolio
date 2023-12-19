@@ -24,7 +24,7 @@ export default function Projects() {
       href={project.link}
       key={project.video}
       className="sm:w-1/2 w-full p-4">
-      <div className="relative w-1000 h-1000 flex-auto">
+      <div className="relative w-1000 h-1000 flex-auto" style={{border: 5 + 'px', borderRadius: 10 + 'px', borderColor: 'gray', borderStyle: 'solid', padding: 5 + 'px'}}>
      
      
         <div className="relative inset-0 flex flex-col items-center justify-center p-4 bg-gray-900 bg-opacity-50 hover:bg-opacity-100">
