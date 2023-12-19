@@ -2,6 +2,8 @@ import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
 import { projects } from "../data";
 
+projects.sort((a, b) => (a.title > b.title ? 1 : -1));
+
 export default function Projects() {
   return (
     <section id="projects" className="text-gray-400">
@@ -22,7 +24,7 @@ export default function Projects() {
       href={project.link}
       key={project.video}
       className="sm:w-1/2 w-full p-4">
-      <div className="relative w-400 h-400 flex-auto">
+      <div className="relative w-1000 h-1000 flex-auto">
       
       <video preload="none" loop playsInline autoPlay muted className="w-full h-full object-cover object-center rounded flex-auto">
 
