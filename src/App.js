@@ -8,7 +8,7 @@ import Skills from "./components/Skills";
 import Bio from "./components/Bio";
 import Resume from "./components/Resume";
 import WorkExperience from "./components/WorkExperience";
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 export default function App() {
   return (
