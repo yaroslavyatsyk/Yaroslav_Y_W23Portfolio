@@ -20,6 +20,8 @@ export default function App() {
       <Resume/>
       <WorkExperience/>
       <Contact />
+
+      <SpeedInsights/>
     </main>
   );
 }
