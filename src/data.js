@@ -3,7 +3,7 @@ export const projects = [
     title: "Matrix Calculator App",
     subtitle: "",
     description:
-      "The application demonstrates arithmetic operations om matrices, such as addition, multiplication, and subtraction. \n Used Technologies and Tools: C# .NET, Windows Presentation Foundation (WPF), Visual Studio.",
+      "The application demonstrates arithmetic operations on matrices, such as addition, multiplication, and subtraction. \n Used Technologies and Tools: C# .NET, Windows Presentation Foundation (WPF), Visual Studio.",
     video: "https://www.dropbox.com/scl/fi/bi6t3y8o8j222b83r31p3/Matrix-Calculator-Demo.mp4?rlkey=ztrxz38j7d8e7wza8o5rgf5yi&raw=1",
     link: "https://github.com/yaroslavyatsyk/Matrix-Calculator-App",
    
