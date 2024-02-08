@@ -57,7 +57,8 @@ export default function Skills() {
                 </span>
               </div>
             </div>
-            
+            </div>
+
         <div className="text-center">
         <h3 className="text-white">Tools</h3 >
         </div>
