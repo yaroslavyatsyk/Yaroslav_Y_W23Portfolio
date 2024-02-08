@@ -56,6 +56,8 @@ export default function Skills() {
                   Microsoft SQL Server
                 </span>
               </div>
+            </div>
+            
         <div className="text-center">
         <h3 className="text-white">Tools</h3 >
         </div>
