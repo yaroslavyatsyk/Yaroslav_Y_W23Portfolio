@@ -15,10 +15,10 @@ export default function WorkExperience() {
                 </p>
             </div>
           
-            <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-4 -mx-4 ">
+            <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-4 -mx-4 " >
                 {workexperiences.map((workexperience) => (
                     <div key={workexperience} className="p-2 sm:w-1/2 w-full">
-                        <div className="bg-gray-800 rounded p-4 h-full items-center flex-auto">
+                        <div className="bg-gray-800 rounded p-4 h-full items-center flex-auto" style={{border: 5 + 'px', borderRadius: 10 + 'px', borderColor: 'gray', borderStyle: 'solid', padding: 20 + 'px'}} >
                            
                             <span className="title-font font-medium text-white" style={{padding: 3 + 'px'}}>
                                 {workexperience.company}
