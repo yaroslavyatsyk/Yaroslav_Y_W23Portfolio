@@ -8,7 +8,7 @@ export default function Resume() {
             Resume
           </h1>
 
-          <p>Please, click the link below to download the resume in PDF format.</p>
+          <p>To download the resume in pdf format, please click the link below.</p>
           <a className="text-indigo-400 leading-relaxed" href="https://www.dropbox.com/scl/fi/y55bxqzzfs998x93bk73f/Yaroslav-Yatsyk.-.NET-Developer.pdf?rlkey=et5jn1l19no3a0auzwyyz8eol&dl=1" download={true}><strong>Download Resume</strong></a>
 
           </div>
