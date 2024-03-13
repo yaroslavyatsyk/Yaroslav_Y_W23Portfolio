@@ -32,7 +32,7 @@ export default function Contact() {
                 Yaroslav.Yatsyk@hotmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
+                PHONE NUMBER
               </h2>
               <p className="leading-relaxed">+1-647-891-1161</p>
             </div>
