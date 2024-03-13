@@ -1,6 +1,6 @@
 import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
 import React from "react";
-import { frameworks, methodologies, programmingLanguages, tools } from "../data";
+import { frameworks, databases, others, programmingLanguages, tools } from "../data";
 
 export default function Skills() {
   return (
@@ -49,15 +49,19 @@ export default function Skills() {
           <h3 className="text-white">Databases</h3>
           </div>
           <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
+            {databases.map((database) => (
             <div className="p-2 sm:w-1/2 w-full">
               <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+                
                 <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" />
                 <span className="title-font font-medium text-white">
-                  Microsoft SQL Server
+                {database}
                 </span>
               </div>
             </div>
-            </div>
+          
+          ))}
+          </div>
 
         <div className="text-center">
         <h3 className="text-white">Tools</h3 >
@@ -76,15 +80,15 @@ export default function Skills() {
           ))}
           </div>
           <div className="text-center">
-          <h3 className="text-white">Methodologies and Concepts</h3 >
+          <h3 className="text-white">Other</h3 >
           </div>
           <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
-            {methodologies.map((methodology) => (
-              <div key={methodology} className="p-2 sm:w-1/2 w-full">
+            {others.map((other) => (
+              <div key={other} className="p-2 sm:w-1/2 w-full">
                 <div className="bg-gray-800 rounded flex p-4 h-full items-center">
                   <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" />
                   <span className="title-font font-medium text-white">
-                    {methodology}
+                    {other}
                   </span>
 
                   </div>

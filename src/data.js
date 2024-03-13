@@ -64,30 +64,34 @@ export const projects = [
   }
 ];
 export const  programmingLanguages = ["C#", "SQL"];
-export const frameworks = ["ASP.NET MVC", "Windows Presentation Foundation (WPF)", "Entity Framework", ".NET Core", ".NET"];
-export const tools = ["Visual Studio", "Visual Studio Code", "Git", "GitHub", "Microsoft SQL Server Management Studio", "Microsoft Office", "UML (Unified Modeling Language)", "Vercel", "Azure"];
-export const methodologies = ["SDLC (Software Development Life Cycle)", "OOP (Object-Oriented Programming)", "MVC (Model-View-Controller)", "Waterfall", "Spiral", "Agile (Scrum)"];
-
+export const frameworks = ["ASP.NET MVC", "Entity Framework", ".NET Core", ".NET", "Windows Forms", "Windows Presentation Foundation (WPF)"];
+export const tools = ["Visual Studio", "Visual Studio Code", "Git", "GitHub", "Microsoft SQL Server Management Studio", "Microsoft Office", "UML (Unified Modeling Language)", "Vercel", "Azure Cloud","Microsoft Teams"];
+export const others = ["Agile Scrum", "Software Development Life Cycle (SDLC)","JSON","Object-Oriented Programming (OOP)"];
+export const databases = ["Microsoft SQL Server", "MySQL", "SQLite"];
 
 export const workexperiences = [
   {
     title: ".NET Developer Intern",
     company: "Postalgia Ink",
-    descriptions: ["Integrated the small module for character tracing by using C# programming language and .NET framework.",
-  "Increased the speed of data processing by 10% through optimization of algorithm to extract letters from images.",
-  "Prepared all reports of software performance."
+    descriptions: ["Increased the speed of data processing from hand-written letters by 10% through the implementation of the character tracing module written in C# .NET."
 
 ],
-    date: "March 2020 - September 2020",
+    date: "March 2020 - December 2020",
+  },
+  {
+    title: ".NET Developer Intern",
+    company: "LinkUp-Studio",
+    descriptions: [
+      "Developed a .NET application that streamlined the data entry process, improving the efficiency by 30% and reducing manual input errors by 20%.", "Increased profits of the company by 15%."
+    ],
+    date: "January 2019 - July 2019"
   },
   {
     title: ".NET Developer Intern",
     company: "Sigma Software Group",
     descriptions: [
-      "Implemented the database for Team Management System by MS SQL Server.\n",
-      "Developed the back-end module for Team Management System by using .NET Technology.",
-      "Used Entity Framework for connection between the Database and the back-end part.",
-      "Increased the efficiency of teamwork by 25% through using effective algorithms of task deployment. "
+      "Improved the effectiveness of teamwork by 25% through the implementation of controllers written in C# .NET for Team Management Web Application. "
     ],
-    date: "June 2018 - August 2018",
-  }];
+    date: "May 2018 - August 2018",
+  },
+];
