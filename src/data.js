@@ -68,6 +68,7 @@ export const frameworks = ["ASP.NET MVC", "Entity Framework", ".NET Core", ".NET
 export const tools = ["Visual Studio", "Visual Studio Code", "Git", "GitHub", "Microsoft SQL Server Management Studio", "Microsoft Office", "UML (Unified Modeling Language)", "Vercel", "Azure Cloud","Microsoft Teams","Postman"];
 export const others = ["Agile Scrum", "Software Development Life Cycle (SDLC)","JSON","Object-Oriented Programming (OOP)"];
 export const databases = ["Microsoft SQL Server", "MySQL", "SQLite"];
+export const frontend = ["HTML", "CSS","Tailwind CSS", "JavaScript"];
 
 export const workexperiences = [
   {
