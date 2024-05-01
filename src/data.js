@@ -74,7 +74,11 @@ export const workexperiences = [
   {
     title: ".NET Developer Intern",
     company: "Postalgia Ink",
-    descriptions: ["Increased the speed of data processing from hand-written letters by 10% through the implementation of the character tracing module written in C# .NET."
+    descriptions: [
+      "Developed a character tracing module using C#, .NET, and Visual Studio, resulting in a 10% enhancement in data processing speed for hand-written letters.",
+      "Implemented Git for effective code source control and modification tracking, resulting in a 15% increase in software development speed within the team.",
+      "Implemented Gmail for sufficient documentation reporting and communication with team members."
+
 
 ],
     date: "March 2020 - December 2020",
@@ -83,7 +87,10 @@ export const workexperiences = [
     title: ".NET Developer Intern",
     company: "LinkUp-Studio",
     descriptions: [
-      "Developed a .NET application that streamlined the data entry process, improving the efficiency by 30% and reducing manual input errors by 20%.", "Increased profits of the company by 15%."
+      "Developed a web application for an online store using ASP.NET MVC, resulting in a 25% profit increase.",
+      "Employed SQL Server Management Studio to construct a robust database infrastructure for the application.",
+      "Implemented Skype to communicate with team members effectively.",
+      "Implemented Microsoft Office for creating technical documentation that provides all essential information about the application."
     ],
     date: "January 2019 - July 2019"
   },
@@ -91,7 +98,11 @@ export const workexperiences = [
     title: ".NET Developer Intern",
     company: "Sigma Software Group",
     descriptions: [
-      "Improved the effectiveness of teamwork by 25% through the implementation of controllers written in C# .NET for Team Management Web Application. "
+      "Developed a web application for a team management system using ASP.NET MVC, resulting in a 10% increase in teamwork efficiency.",
+      "Utilized SQL Server Management Studio to construct a comprehensive database for the project.",
+      "Employed Team Foundation Server to track and manage changes in the project.",
+      "Implemented Skype to communicate with team members effectively.",
+      "Implemented Microsoft Office for creating technical documentation that describes all aspects of the project."
     ],
     date: "May 2018 - August 2018",
   },
