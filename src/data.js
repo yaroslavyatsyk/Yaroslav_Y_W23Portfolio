@@ -77,7 +77,8 @@ export const workexperiences = [
     descriptions: [
       "Developed a character tracing module using C#, .NET, and Visual Studio, resulting in a 10% enhancement in data processing speed for hand-written letters.",
       "Implemented Git for effective code source control and modification tracking, resulting in a 15% increase in software development speed within the team.",
-      "Implemented Gmail for sufficient documentation reporting and communication with team members."
+      "Implemented Gmail for sufficient reporting and communication with team members.",
+      "Followed all stages of the Software Development Life Cycle (SDLC) including gathering requirements and analysis, design, implementation, testing, maintenance, and support."
 
 
 ],
@@ -88,9 +89,10 @@ export const workexperiences = [
     company: "LinkUp-Studio",
     descriptions: [
       "Developed a web application for an online store using ASP.NET MVC, resulting in a 25% profit increase.",
-      "Employed SQL Server Management Studio to construct a robust database infrastructure for the application.",
+      "Followed all stages of the Software Development Life Cycle (SDLC) including gathering requirements and analysis, design, implementation, testing, maintenance, and support.",
+      "Employed SQL Server Management Studio to design a robust database infrastructure for the application.",
       "Implemented Skype to communicate with team members effectively.",
-      "Implemented Microsoft Office for creating technical documentation that provides all essential information about the application."
+      "Implemented Microsoft Office to create critical documentation with project description."
     ],
     date: "January 2019 - July 2019"
   },
@@ -99,10 +101,10 @@ export const workexperiences = [
     company: "Sigma Software Group",
     descriptions: [
       "Developed a web application for a team management system using ASP.NET MVC, resulting in a 10% increase in teamwork efficiency.",
-      "Utilized SQL Server Management Studio to construct a comprehensive database for the project.",
+      "Utilized SQL Server Management Studio to design a comprehensive database for the project.",
       "Employed Team Foundation Server to track and manage changes in the project.",
       "Implemented Skype to communicate with team members effectively.",
-      "Implemented Microsoft Office for creating technical documentation that describes all aspects of the project."
+      "Followed all stages of the Software Development Life Cycle (SDLC) including gathering requirements and analysis, design, implementation, testing, maintenance, and support."
     ],
     date: "May 2018 - August 2018",
   },
