@@ -86,7 +86,7 @@ export const workexperiences = [
   },
   {
     title: ".NET Developer Intern",
-    company: "LinkUp-Studio",
+    company: "Linkup Studio",
     descriptions: [
       "Developed a web application for an online store using ASP.NET MVC, resulting in a 25% profit increase.",
       "Followed all stages of the Software Development Life Cycle (SDLC) including gathering requirements and analysis, design, implementation, testing, maintenance, and support.",
