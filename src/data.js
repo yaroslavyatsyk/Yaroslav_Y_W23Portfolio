@@ -101,7 +101,7 @@ export const workexperiences = [
     descriptions: [
       "Designed a web application for a team management system using ASP.NET MVC, improving teamwork efficiency by 10%.",
       "Designed a comprehensive database using SQL Server Management Studio.",
-      "Managed changes with Team Foundation Server",
+      "Managed changes with the Team Foundation Server",
       "Communicated with team members via Skype.",
       "Adhered to the SDLC procedures."
     ],
