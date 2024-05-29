@@ -3,7 +3,7 @@ export const projects = [
     title: "Matrix Calculator App",
     subtitle: "",
     description:
-      "Engineered Windows GUI application to demonstrate the concepts of matrices, including arithmetic operations, inverse, determinant, and transpose using C#, .NET, WPF, Visual Studio, Git, GitHub.",
+      "Engineered a Windows GUI application to demonstrate the concepts of matrices, including arithmetic operations, inverse, determinant, and transpose using C#, .NET, WPF, Visual Studio, Git, GitHub.",
     video: "https://www.dropbox.com/scl/fi/bi6t3y8o8j222b83r31p3/Matrix-Calculator-Demo.mp4?rlkey=ztrxz38j7d8e7wza8o5rgf5yi&raw=1",
     link: "https://github.com/yaroslavyatsyk/Matrix-Calculator-App",
    
@@ -12,7 +12,7 @@ export const projects = [
     title: "Quadratic Equation App",
     subtitle: "",
     description:
-      "Implemented desktop-based application to solve quadratic equations using C#, .NET, WPF, Visual Studio, Git, GitHub.",
+      "Implemented a desktop-based application to solve quadratic equations using C#, .NET, WPF, Visual Studio, Git, GitHub.",
     video: "https://www.dropbox.com/scl/fi/5690o7r2b8i6vf7kbaeex/Quadratic-Equation-Demo.mp4?rlkey=mcb28p52igtnjkitl1j7lple6&raw=1",
     link: "https://github.com/yaroslavyatsyk/Quadric-Equatation",
 
@@ -21,7 +21,7 @@ export const projects = [
     title: "Text Analyzer App",
     subtitle: "",
     description:
-      "Created text analysis application providing semantics information about a word or text using C#, .NET, WPF, Visual Studio, Git.",
+      "Created a text analysis application providing semantics information about a word or text using C#, .NET, WPF, Visual Studio, Git.",
     video: "https://www.dropbox.com/scl/fi/sy1dvlk0xmqbry11216zq/Text-Analyzer-Demo.mp4?rlkey=j7iuw1h15gy0eqdrzl3bgoyej&raw=1",
     link: "https://github.com/yaroslavyatsyk/TextAnalyzerApp",
  
@@ -30,35 +30,35 @@ export const projects = [
     title: "SportsPro. Sporting Technician Management System",
     subtitle: "",
     description:
-      "Constructed web application for tracking sports facilities and technical cases using C#, .NET, ASP.NET MVC, SQL Server, Entity Framework.",
+      "Constructed a web application for tracking sports facilities and technical cases using C#, .NET, ASP.NET MVC, SQL Server, Entity Framework.",
     video: "https://www.dropbox.com/scl/fi/q8qqfdspfxevym8wm8ku1/Sports-Pro-Demo.mp4?rlkey=dmxg12oob67tlavc6z7hco8xw&raw=1",
     link: "https://github.com/yaroslavyatsyk/SportsPro",
   },
   {
     title: "Number Analyzer App",
     subtitle: "",
-    description: "Built desktop-based application to analyze numbers, including prime numbers, odd numbers, and even numbers using C#, .NET, WPF, Visual Studio, Git, GitHub.",
+    description: "Built a desktop-based application to analyze numbers, including prime numbers, odd numbers, and even numbers using C#, .NET, WPF, Visual Studio, Git, GitHub.",
     video: "https://www.dropbox.com/scl/fi/rhlsayiero51yki07donr/Number-Analysis-Demo.mp4?rlkey=fj3m4vbdmhvjgqc0u5mat7jkh&raw=1",
     link: "https://github.com/yaroslavyatsyk/Number-Analyser-App"
   },
   {
     title: "Fraction App",
     subtitle: "",
-    description: "Developed desktop application to perform arithmetic operations on fractions, including addition, subtraction, multiplication, and division using C#, .NET, WPF, Visual Studio, Git, GitHub.",
+    description: "Developed a desktop application to perform arithmetic operations on fractions, including addition, subtraction, multiplication, and division using C#, .NET, WPF, Visual Studio, Git, GitHub.",
     video: "https://www.dropbox.com/scl/fi/emmqopuog2n75slzoxip6/Fraction-App-Demo.mp4?rlkey=52gjjdk16dgv52ykrbtmvt18l&raw=1",
     link: "https://github.com/yaroslavyatsyk/Fraction-App" 
   },
   {
     title: "Assignment Management System",
     subtitle: "",
-    description: "Developed web application for task categorization and management using C#, .NET, ASP.NET MVC, Git, SQL Server, Entity Framework.",
+    description: "Developed a web application for task categorization and management using C#, .NET, ASP.NET MVC, Git, SQL Server, Entity Framework.",
     link: "https://github.com/yaroslavyatsyk/ToDo-Web-App",
     video: "https://www.dropbox.com/scl/fi/ccf41kcgbhztxlbpmhsrr/Assignment-Management-System-Demo.mp4?rlkey=c7xgudyw47fr98ti221z6y8np&raw=1"
   },
   {
     title: "Complex Number App",
     subtitle: "",
-    description: "Desktop-based application demonstrates the concepts of complex numbers, including their properties and arithmetic operations using C#, .NET, WPF, Visual Studio, Git, GitHub.",
+    description: "A Desktop-based application demonstrates the concepts of complex numbers, including their properties and arithmetic operations using C#, .NET, WPF, Visual Studio, Git, GitHub.",
     link: "https://github.com/yaroslavyatsyk/Complex-Number-App",
     video: "https://www.dropbox.com/scl/fi/vj9czqp1knflfrwzxus2s/Complex-Number-Demo.mp4?rlkey=wyg7jziancs00y38dr4xn31vw&raw=1"
   }
