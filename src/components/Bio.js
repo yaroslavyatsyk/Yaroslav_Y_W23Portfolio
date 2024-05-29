@@ -23,7 +23,7 @@ export default function Bio() {
             Greetings, and thank you for visiting my online portfolio. My name is Yaroslav Yatsyk, and I am a recent graduate in the Computer Programming & Analysis Program from George Brown College.
 
 <br/>
-I specialize as a C# .NET Developer with a fervor for crafting a user-friendly, easily navigable, and maintainable software. Recognized as a dedicated team player, I thrive on tackling new challenges and transforming them into efficient solutions. My enthusiasm for learning extends to embracing new skills and technologies.
+I am a dedicated software developer specializing in the .NET ecosystem with a fervor for crafting a user-friendly, easily navigable, and maintainable software. Recognized as a dedicated team player, I thrive on tackling new challenges and transforming them into efficient solutions. My enthusiasm for learning extends to embracing new skills and technologies.
 
 <br/>
 I am currently seeking a position where I can leverage my expertise to develop a software that enhances user experiences and simplifies daily tasks. Additionally, I am eager to join a team that fosters a professional growth and provides opportunities to acquire new skills and knowledge.
