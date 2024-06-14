@@ -64,8 +64,8 @@ export const projects = [
   }
 ];
 export const  programmingLanguages = ["C#", "SQL"];
-export const frameworks = ["ASP.NET MVC", "Entity Framework", ".NET Core", ".NET", "Windows Forms", "Windows Presentation Foundation (WPF)","NUnit Unit Testing Framework"];
-export const tools = ["Visual Studio", "Visual Studio Code", "Git", "GitHub", "Microsoft SQL Server Management Studio", "Microsoft Office", "UML (Unified Modeling Language)", "Vercel", "Azure Cloud","Microsoft Teams","Postman"];
+export const frameworks = ["ASP.NET MVC", "Entity Framework", ".NET Core", ".NET", "Windows Forms", "Windows Presentation Foundation (WPF)","NUnit Testing Framework"];
+export const tools = ["Visual Studio", "Visual Studio Code", "Git", "GitHub", "Microsoft SQL Server Management Studio", "UML (Unified Modeling Language)", "Vercel", "Azure Cloud","Postman","Docker"];
 export const others = ["Agile Scrum", "Software Development Life Cycle (SDLC)","JSON","Object-Oriented Programming (OOP)"];
 export const databases = ["Microsoft SQL Server", "MySQL", "SQLite"];
 export const frontend = ["HTML", "CSS","Tailwind CSS", "JavaScript","Razor","JQuery"];
@@ -75,10 +75,10 @@ export const workexperiences = [
     title: ".NET Developer Intern",
     company: "Postalgia Ink",
     descriptions: [
-      "Developed character tracing module using C#, .NET, and Visual Studio, enhancing data processing speed by 10%.",
-      "Implemented Git for effective source control, increasing development speed by 15%.",
-      "Utilized Gmail for reporting and communication with team members.",
-      "Followed all stages of Software Development Life Cycle (SDLC) including requirements gathering, design, implementation, testing, maintenance, and support."
+      "Worked with team of 3 members to develop character tracing module using C#, .NET, and Visual Studio, enhancing data processing speed by 10%",
+      "Implemented Git for effective version source control, increasing development speed by 15%.",
+      "Utilized Microsoft Teams for collaboration with team members, improving team performance by 25%.",
+      "Followed all stages of Software Development Life Cycle (SDLC), including requirements gathering, architecture design, implementation, testing, maintenance, and support."
 
 ],
     date: "March 2020 - December 2020",
@@ -87,11 +87,10 @@ export const workexperiences = [
     title: ".NET Developer Intern",
     company: "Linkup Studio",
     descriptions: [
-      "Built web application for online store using ASP.NET MVC, increasing profits by 25%.",
+      "Collaborated with team of 5 people to build web application for online store using ASP.NET MVC, increasing profits by 25%.",
       "Complied with all phases of SDLC.",
-      "Engineered robust database using SQL Server Management Studio.",
-      "Executed Skype to communicate with team members effectively.",
-      "Created critical documentation using Microsoft Office."
+      "Engineered robust database using SQL Server Management Studio, improving data management efficiency by 8%.",
+      "Executed Skype to communicate with team members effectively."
     ],
     date: "January 2019 - July 2019"
   },
@@ -99,9 +98,9 @@ export const workexperiences = [
     title: ".NET Developer Intern",
     company: "Sigma Software Group",
     descriptions: [
-      "Designed web application for team management system using ASP.NET MVC, improving teamwork efficiency by 10%.",
+      "Teamed with 5 people to deliver web application for team management system using ASP.NET MVC, improving teamwork efficiency by 10%.",
       "Designed comprehensive database using SQL Server Management Studio.",
-      "Managed changes with the Team Foundation Server",
+      "Managed changes with Team Foundation Server version control, boosting teamwork productivity by 10%.",
       "Communicated with team members via Skype.",
       "Adhered to SDLC procedures."
     ],
