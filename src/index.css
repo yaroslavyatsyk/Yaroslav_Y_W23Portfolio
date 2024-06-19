@@ -5,7 +5,8 @@ html {
     scroll-behavior: smooth;
 }
 #bioimage:hover {
+   
     transform: scale(1.1);
-    transition: transform 1s;
+    transition: transform 0.5s;
 
 }
