@@ -8,15 +8,7 @@ export const projects = [
     link: "https://github.com/yaroslavyatsyk/Matrix-Calculator-App",
    
   },
-  {
-    title: "Quadratic Equation App",
-    subtitle: "",
-    description:
-      "Implemented a desktop-based application to solve quadratic equations using C#, .NET, WPF, Visual Studio, Git, GitHub.",
-    video: "https://www.dropbox.com/scl/fi/5690o7r2b8i6vf7kbaeex/Quadratic-Equation-Demo.mp4?rlkey=mcb28p52igtnjkitl1j7lple6&raw=1",
-    link: "https://github.com/yaroslavyatsyk/Quadric-Equatation",
-
-  },
+  
   {
     title: "Text Analyzer App",
     subtitle: "",
@@ -70,40 +62,3 @@ export const others = ["Agile Scrum", "Software Development Life Cycle (SDLC)","
 export const databases = ["Microsoft SQL Server", "MySQL", "SQLite"];
 export const frontend = ["HTML", "CSS","Tailwind CSS", "JavaScript","Razor","JQuery"];
 
-export const workexperiences = [
-  {
-    title: ".NET Developer Intern",
-    company: "Postalgia Ink",
-    descriptions: [
-      "Worked with team of 3 members to develop character tracing module using C#, .NET, and Visual Studio, enhancing data processing speed by 10%",
-      "Implemented Git for effective version source control, increasing development speed by 15%.",
-      "Utilized Microsoft Teams for collaboration with team members, improving team performance by 25%.",
-      "Followed all stages of Software Development Life Cycle (SDLC), including requirements gathering, architecture design, implementation, testing, maintenance, and support."
-
-],
-    date: "March 2020 - December 2020",
-  },
-  {
-    title: ".NET Developer Intern",
-    company: "Linkup Studio",
-    descriptions: [
-      "Collaborated with team of 5 people to build web application for online store using ASP.NET MVC, increasing profits by 25%.",
-      "Complied with all phases of SDLC.",
-      "Engineered robust database using SQL Server Management Studio, improving data management efficiency by 8%.",
-      "Executed Skype to communicate with team members effectively."
-    ],
-    date: "January 2019 - July 2019"
-  },
-  {
-    title: ".NET Developer Intern",
-    company: "Sigma Software Group",
-    descriptions: [
-      "Teamed with 5 people to deliver web application for team management system using ASP.NET MVC, improving teamwork efficiency by 10%.",
-      "Designed comprehensive database using SQL Server Management Studio.",
-      "Managed changes with Team Foundation Server version control, boosting teamwork productivity by 10%.",
-      "Communicated with team members via Skype.",
-      "Adhered to SDLC procedures."
-    ],
-    date: "May 2018 - August 2018",
-  },
-];
