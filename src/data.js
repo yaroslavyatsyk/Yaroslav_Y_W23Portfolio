@@ -33,13 +33,7 @@ export const projects = [
     video: "https://www.dropbox.com/scl/fi/rhlsayiero51yki07donr/Number-Analysis-Demo.mp4?rlkey=fj3m4vbdmhvjgqc0u5mat7jkh&raw=1",
     link: "https://github.com/yaroslavyatsyk/Number-Analyser-App"
   },
-  {
-    title: "Fraction App",
-    subtitle: "",
-    description: "Developed a desktop application to perform arithmetic operations on fractions, including addition, subtraction, multiplication, and division using C#, .NET, WPF, Visual Studio, Git, GitHub.",
-    video: "https://www.dropbox.com/scl/fi/emmqopuog2n75slzoxip6/Fraction-App-Demo.mp4?rlkey=52gjjdk16dgv52ykrbtmvt18l&raw=1",
-    link: "https://github.com/yaroslavyatsyk/Fraction-App" 
-  },
+  
   {
     title: "Assignment Management System",
     subtitle: "",
