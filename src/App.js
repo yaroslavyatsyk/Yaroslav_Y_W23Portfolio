@@ -6,8 +6,6 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
 import Bio from "./components/Bio";
-import Resume from "./components/Resume";
-import WorkExperience from "./components/WorkExperience";
 
 
 export default function App() {
@@ -17,8 +15,7 @@ export default function App() {
       <Bio/>
       <Projects />
       <Skills />
-      <Resume/>
-      <WorkExperience/>
+      
       <Contact />
 
      

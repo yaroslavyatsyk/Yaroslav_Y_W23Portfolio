@@ -10,7 +10,7 @@ export default function Bio() {
               Bio
              
             </h1>
-            <img
+            <img id="bioimage"
               className="card-img-top object-center rounded mx-auto"
               alt="yaroslav"
               src="https://www.dropbox.com/scl/fi/nkhewyfuj0hm5arjlip5a/IMG_20230615_224953_346.jpg?rlkey=3q1si165c933qn0jcmcbyodsd&raw=1"
