@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Matrix Calculator App",
+    title: "Matrix App",
     subtitle: "",
     description:
       "Engineered a Windows GUI application to demonstrate the concepts of matrices, including arithmetic operations, inverse, determinant, and transpose using C#, .NET, WPF, Visual Studio, Git, GitHub.",
@@ -46,13 +46,6 @@ export const projects = [
     description: "Developed a web application for task categorization and management using C#, .NET, ASP.NET MVC, Git, SQL Server, Entity Framework.",
     link: "https://github.com/yaroslavyatsyk/ToDo-Web-App",
     video: "https://www.dropbox.com/scl/fi/ccf41kcgbhztxlbpmhsrr/Assignment-Management-System-Demo.mp4?rlkey=c7xgudyw47fr98ti221z6y8np&raw=1"
-  },
-  {
-    title: "Complex Number App",
-    subtitle: "",
-    description: "A Desktop-based application demonstrates the concepts of complex numbers, including their properties and arithmetic operations using C#, .NET, WPF, Visual Studio, Git, GitHub.",
-    link: "https://github.com/yaroslavyatsyk/Complex-Number-App",
-    video: "https://www.dropbox.com/scl/fi/vj9czqp1knflfrwzxus2s/Complex-Number-Demo.mp4?rlkey=wyg7jziancs00y38dr4xn31vw&raw=1"
   }
 ];
 export const  programmingLanguages = ["C#", "SQL"];
