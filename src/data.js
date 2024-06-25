@@ -14,7 +14,7 @@ export const projects = [
     subtitle: "",
     description:
       "Created a text analysis application providing semantics information about a word or text using C#, .NET, WPF, Visual Studio, Git.",
-    video: "https://www.dropbox.com/scl/fi/sy1dvlk0xmqbry11216zq/Text-Analyzer-Demo.mp4?rlkey=j7iuw1h15gy0eqdrzl3bgoyej&raw=1",
+    video: "https://www.dropbox.com/scl/fi/62vol4tayed6c3t1qk7wt/Text-Analyzer-App.mp4?rlkey=ioyb1y5xz3vhvqmioejoo028e&st=qbv3xtlx&raw=1",
     link: "https://github.com/yaroslavyatsyk/TextAnalyzerApp",
  
   },
