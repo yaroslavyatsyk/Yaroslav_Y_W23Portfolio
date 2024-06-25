@@ -30,7 +30,7 @@ export const projects = [
     title: "Number Analyzer App",
     subtitle: "",
     description: "Built a desktop-based application to analyze numbers, including prime numbers, odd numbers, and even numbers using C#, .NET, WPF, Visual Studio, Git, GitHub.",
-    video: "https://www.dropbox.com/scl/fi/rhlsayiero51yki07donr/Number-Analysis-Demo.mp4?rlkey=fj3m4vbdmhvjgqc0u5mat7jkh&raw=1",
+    video: "https://www.dropbox.com/scl/fi/quml8aambfr3m7fawdwut/Number-Analysis-App.mp4?rlkey=9rin39t0bnjmn4akbb5567549&st=d2wmh9y5&raw=1",
     link: "https://github.com/yaroslavyatsyk/Number-Analyser-App"
   },
   
