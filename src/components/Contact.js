@@ -4,11 +4,11 @@ export default function Contact() {
  
   return (
    
-    <section id="contact" className="relative">
+    <section id="contact">
       
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
       <div className="text-center mb-5">
-        <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
+        <h1 className="sm:text-4xl text-3xl font-medium title-font  mb-4">
           Let's Connect!
         </h1>
         </div>
@@ -20,21 +20,21 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 LOCATION
               </h2>
-              <p className="mt-1">
+              <p className="mt-1 text-white" >
                 Toronto, Canada, Ontario
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs">
+              <h2 className="title-font font-semibold  tracking-widest text-xs text-white">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed" href="mailto:Yaroslav.Yatsyk@hotmail.com">
+              <a className="text-indigo-400 leading-relaxed text-white" href="mailto:Yaroslav.Yatsyk@hotmail.com">
                 Yaroslav.Yatsyk@hotmail.com
               </a>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
+              <h2 className="title-font font-semibold  tracking-widest text-xs mt-4 text-white">
                 PHONE NUMBER
               </h2>
-              <p className="leading-relaxed">+1-647-891-1161</p>
+              <p className="leading-relaxed text-white">+1-647-891-1161</p>
             </div>
           </div>
           </div>

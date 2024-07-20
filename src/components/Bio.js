@@ -6,7 +6,7 @@ export default function Bio() {
       <div className="container px-5 py-5 mx-auto">
         <div className="card p-5">
           <div className="card-body mb-5">
-            <h1 className="card-title title-font sm:text-4xl text-3xl mb-5 font-medium text-white text-center">
+            <h1 className="card-title title-font sm:text-4xl text-3xl mb-5 font-medium text-center">
               Bio
              
             </h1>

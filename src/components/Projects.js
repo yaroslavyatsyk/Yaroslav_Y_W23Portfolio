@@ -6,11 +6,11 @@ import { projects } from "../data";
 
 export default function Projects() {
   return (
-    <section id="projects" className="text-gray-400">
+    <section id="projects">
       <div className="container px-2 py-2 mx-auto text-center lg:px-5">
         <div className="flex flex-col w-full mb-2">
           <CodeIcon className="mx-auto inline-block w-10 mb-2" />
-          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
+          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4">
             My Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
