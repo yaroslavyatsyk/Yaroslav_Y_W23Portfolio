@@ -19,10 +19,11 @@ const handleSwitch = () => {
 
 if(switcher){
   return (
+    
    <main className="bg-gray-900 body-font text-white">
     <label class="switch">
     <input type="checkbox" id="switcher" onClick={handleSwitch}/>
-    <span class="slider"></span>
+    <span class="slider round"></span>
     </label>
       <About />
       <Bio/>
@@ -43,7 +44,7 @@ else {
     <main className="bg-white-900 body-font text-black">
       <label class="switch">
     <input type="checkbox" id="switch" onClick={handleSwitch}/>
-    <span class="slider"></span>
+    <span class="slider round"></span>
     </label>
       <About />
       <Bio/>

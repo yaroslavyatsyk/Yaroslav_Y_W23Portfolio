@@ -71,6 +71,6 @@ html {
     border-radius: 50%;
   }
   #switcher {
-    position: relative;
+    position: absolute;
     right: auto;
   }
