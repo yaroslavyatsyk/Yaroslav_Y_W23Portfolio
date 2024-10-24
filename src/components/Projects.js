@@ -21,7 +21,7 @@ export default function Projects() {
         <div className="flex flex-wrap w-full h-full -m-4">
   {projects.map((project) => (
     <a
-      href={project.link}
+      href={project.link} aria-label={`Learn more about the ${project.title}`}
       key={project.video}
       className="sm:w-1/2 w-full p-4">
       <div className="relative w-1000 h-1000 flex-auto" style={{border: 5 + 'px', borderRadius: 10 + 'px', borderColor: 'gray', borderStyle: 'solid', padding: 10 + 'px'}}>
