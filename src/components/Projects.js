@@ -35,13 +35,20 @@ export default function Projects() {
           <p className="leading-relaxed text-center font-small text-white mb-3">{project.description}</p>
         
         </div>
+
          
-      <video preload="none" loop playsInline autoPlay muted className="w-2000 h-2000 object-cover object-center rounded flex-auto">
+      {project.video && <video preload="none" loop playsInline autoPlay muted className="w-2000 h-2000 object-cover object-center rounded flex-auto">
 
 
 <source src={project.video} type="video/mp4"/>
 
 </video>
+}
+{project.photo &&
+  <img src={project.photo}></img>
+}
+
+
       </div>
     </a>
     

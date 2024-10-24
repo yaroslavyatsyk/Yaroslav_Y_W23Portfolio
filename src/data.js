@@ -40,6 +40,12 @@ export const projects = [
     description: "Developed a web application for task categorization and management using C#, .NET, ASP.NET MVC, Git, SQL Server, Entity Framework.",
     link: "https://github.com/yaroslavyatsyk/ToDo-Web-App",
     video: "https://www.dropbox.com/scl/fi/ccf41kcgbhztxlbpmhsrr/Assignment-Management-System-Demo.mp4?rlkey=c7xgudyw47fr98ti221z6y8np&raw=1"
+  },
+  {
+    title: "C# For Everybody",
+    description: "The social project, where developers of all levels of seniority can contribute their sets of coding challenges for beginners to enhance their coding and problem-solving skills.",
+    photo: "https://www.dropbox.com/scl/fi/1d515hf3vim6764202a6v/Screenshot-2024-10-24-162526.png?rlkey=7j9ke5scc0c1lbf83u389oitv&st=dj6br4hl&raw=1",
+    link: "https://github.com/Kalutu/csharp-for-everybody"
   }
 ];
 export const  programmingLanguages = ["C#", "SQL","Java"];
