@@ -28,7 +28,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold  tracking-widest text-xs text-white">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed text-white" href="mailto:Yaroslav.Yatsyk@hotmail.com">
+              <a className="text-indigo-400 leading-relaxed text-white" href="mailto:Yaroslav.Yatsyk@hotmail.com" aria-label="Please email me if you have any questions by clicking the link">
                 Yaroslav.Yatsyk@hotmail.com
               </a>
               <h2 className="title-font font-semibold  tracking-widest text-xs mt-4 text-white">
