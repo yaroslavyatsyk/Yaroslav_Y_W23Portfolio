@@ -45,7 +45,7 @@ export default function Projects() {
 </video>
 }
 {project.photo &&
-  <img src={project.photo}></img>
+  <img src={project.photo} alt="project_photo"></img>
 }
 
 
