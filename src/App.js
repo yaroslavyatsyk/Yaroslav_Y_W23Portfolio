@@ -28,7 +28,7 @@ if(switcher){
       <About />
       <Bio/>
       <Projects />
-      <Skills />
+      <Skills background = {switcher} />
       
       <Contact />
 
