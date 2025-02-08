@@ -58,7 +58,7 @@ export default function Skills() {
             {/* Accordion Content */}
             <div
               className={`transition-all overflow-hidden duration-300 ${
-                openSection === section.title ? "max-h-96 opacity-100 py-2" : "max-h-0 opacity-0"
+                openSection === section.title ? "max-h-screen opacity-100 py-2" : "max-h-0 opacity-0"
               }`}
             >
               <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
