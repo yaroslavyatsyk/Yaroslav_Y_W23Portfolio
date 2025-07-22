@@ -10,7 +10,7 @@ export default function About() {
             .NET Developer | Software Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-          Hi, I’m Yaroslav — a software developer passionate about software development and building software applications for personal and business goals.
+          Hi, I’m Yaroslav — a software developer with a strong passion for software development and building software applications for personal and business goals.
 
           </p>
           <div className="flex justify-center">
