@@ -7,10 +7,10 @@ export default function About() {
         <div className="text-center mb-5">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium">
             Yaroslav Yatsyk.
-            .NET Developer
+            .NET Developer | Software Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-          Hi, I’m Yaroslav — a software developer passionate about education, C#, and building real code for real people.
+          Hi, I’m Yaroslav — a software developer passionate about software development and building software applications for personal and business goals.
 
           </p>
           <div className="flex justify-center">
