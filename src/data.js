@@ -49,7 +49,7 @@ export const projects = [
   {
     title: "C# For Everybody",
     description: "This is a social project where developers of all seniority levels can contribute their sets of coding challenges to help beginners enhance their coding, analytical, and problem-solving skills.",
-    photo: "https://www.dropbox.com/scl/fi/1d515hf3vim6764202a6v/Screenshot-2024-10-24-162526.png?rlkey=7j9ke5scc0c1lbf83u389oitv&st=dj6br4hl&raw=1",
+    photo: "https://www.dropbox.com/scl/fi/n1cdl86b6h4zzuodtcn0k/feature_coding.png?rlkey=gvrtf4hcekgi5lfglfx7jxacn&st=3yhrl1mc&raw=1",
     link: "https://github.com/Kalutu/csharp-for-everybody",
     technologies: ["C#", ".NET", "Git"]
   }
