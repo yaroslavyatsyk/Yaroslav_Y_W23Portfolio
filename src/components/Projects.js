@@ -32,7 +32,7 @@ export default function Projects() {
           <h1 className="title-font text-lg font-small text-white mb-3">
             {project.title}
           </h1>
-          <ul>
+          <ul className="list-disc list-inside text-white mb-3">
             <li>{project.description}</li>
           </ul>
 
