@@ -32,7 +32,19 @@ export default function Projects() {
           <h1 className="title-font text-lg font-small text-white mb-3">
             {project.title}
           </h1>
-          <p className="leading-relaxed text-center font-small text-white mb-3">{project.description}</p>
+          <ul>
+            <li>{project.description}</li>
+          </ul>
+
+          <h1 className="title-font text-lg font-small text-white mb-3">
+            Used Technologies:
+          </h1>
+          <ul className="list-disc list-inside text-white">
+            {project.technologies.map((tech, index) => (
+              <li key={index}>{tech}</li>
+            ))}
+
+            </ul>
         
         </div>
 

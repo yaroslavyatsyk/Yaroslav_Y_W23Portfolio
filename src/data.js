@@ -3,9 +3,10 @@ export const projects = [
     title: "Matrix App",
     subtitle: "",
     description:
-      "Engineered a Windows GUI application to demonstrate the concepts of matrices, including arithmetic operations, inverse, determinant, and transpose using C#, .NET, WPF, Visual Studio, Git, GitHub.",
+      "Engineered a Windows GUI application to demonstrate the concepts of matrices, including arithmetic operations, inverse, determinant, and transpose.",
     video: "https://www.dropbox.com/scl/fi/nke49zizej0cdspc3xvcv/Matrix-App.mp4?rlkey=evqo5jlqlywy4tt7ti3yk2su3&st=t8o4yi0b&raw=1",
     link: "https://github.com/yaroslavyatsyk/Matrix-App",
+    technologies: ["C#", ".NET", "WPF", "Visual Studio", "Git", "GitHub"]
    
   },
   
@@ -13,39 +14,44 @@ export const projects = [
     title: "Text Analyzer App",
     subtitle: "",
     description:
-      "Created a text analysis application providing semantics information about a word or text using C#, .NET, WPF, Visual Studio, Git.",
+      "Created a text analysis application providing semantics information about a word or text, including word count, character count, and sentence count.",
     video: "https://www.dropbox.com/scl/fi/62vol4tayed6c3t1qk7wt/Text-Analyzer-App.mp4?rlkey=ioyb1y5xz3vhvqmioejoo028e&st=qbv3xtlx&raw=1",
     link: "https://github.com/yaroslavyatsyk/TextAnalyzerApp",
+    technologies: ["C#", ".NET", "WPF", "Visual Studio", "Git", "GitHub"]
  
   },
   {
     title: "SportsPro. Sporting Technician Management System",
     subtitle: "",
     description:
-      "Constructed a web application for tracking sports facilities and technical cases using C#, .NET, ASP.NET MVC, SQL Server, Entity Framework.",
+      "The application allows users to manage sports facilities, track technical cases, and generate reports.",
     video: "https://www.dropbox.com/scl/fi/q8qqfdspfxevym8wm8ku1/Sports-Pro-Demo.mp4?rlkey=dmxg12oob67tlavc6z7hco8xw&raw=1",
     link: "https://github.com/yaroslavyatsyk/SportsPro",
+    technologies: ["C#", ".NET", "ASP.NET MVC", "SQL Server", "Entity Framework", "Git", "GitHub"]
   },
   {
     title: "Number Analyzer App",
     subtitle: "",
-    description: "Built a desktop-based application to analyze numbers, including prime numbers, odd numbers, and even numbers using C#, .NET, WPF, Visual Studio, Git, GitHub.",
+    description: "Built a desktop-based application to analyze numbers, including prime numbers, odd numbers, and even numbers.",
     video: "https://www.dropbox.com/scl/fi/quml8aambfr3m7fawdwut/Number-Analysis-App.mp4?rlkey=9rin39t0bnjmn4akbb5567549&st=d2wmh9y5&raw=1",
-    link: "https://github.com/yaroslavyatsyk/Number-Analyser-App"
+    link: "https://github.com/yaroslavyatsyk/Number-Analyser-App",
+    technologies: ["C#", ".NET", "WPF", "Visual Studio", "Git", "GitHub"]
   },
   
   {
     title: "Assignment Management System",
     subtitle: "",
-    description: "Developed a web application for task categorization and management using C#, .NET, ASP.NET MVC, Git, SQL Server, Entity Framework.",
+    description: "Developed a web application for task categorization and management, allowing users to create, update, and delete tasks, as well as filter them by status.",
     link: "https://github.com/yaroslavyatsyk/ToDo-Web-App",
-    video: "https://www.dropbox.com/scl/fi/ccf41kcgbhztxlbpmhsrr/Assignment-Management-System-Demo.mp4?rlkey=c7xgudyw47fr98ti221z6y8np&raw=1"
+    video: "https://www.dropbox.com/scl/fi/ccf41kcgbhztxlbpmhsrr/Assignment-Management-System-Demo.mp4?rlkey=c7xgudyw47fr98ti221z6y8np&raw=1",
+    technologies: ["C#", ".NET", "ASP.NET MVC", "SQL Server", "Entity Framework", "Git", "GitHub"]
   },
   {
     title: "C# For Everybody",
-    description: "This is a social project where developers of all seniority levels can contribute their sets of coding challenges to help beginners enhance their coding, analytical, and problem-solving skills. Used technologies: C#, .NET, and Git.",
+    description: "This is a social project where developers of all seniority levels can contribute their sets of coding challenges to help beginners enhance their coding, analytical, and problem-solving skills.",
     photo: "https://www.dropbox.com/scl/fi/1d515hf3vim6764202a6v/Screenshot-2024-10-24-162526.png?rlkey=7j9ke5scc0c1lbf83u389oitv&st=dj6br4hl&raw=1",
-    link: "https://github.com/Kalutu/csharp-for-everybody"
+    link: "https://github.com/Kalutu/csharp-for-everybody",
+    technologies: ["C#", ".NET", "Git"]
   }
 ];
 export const programmingLanguages = ["C#", "SQL","Java"];
