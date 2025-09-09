@@ -13,7 +13,7 @@ export default function Bio() {
             <img id="bioimage"
               className="card-img-top object-center rounded mx-auto"
               alt="yaroslav"
-              src="https://www.dropbox.com/scl/fi/nkhewyfuj0hm5arjlip5a/IMG_20230615_224953_346.jpg?rlkey=3q1si165c933qn0jcmcbyodsd&raw=1"
+              src="https://www.dropbox.com/scl/fi/2fz70ud5g9v7r3rqv32nh/IMG_2560.jpg?rlkey=f1rymoy5hqpxch3ugv6t13bb3&st=l3krfwek&raw=1"
               width={400}
               height={400}
               style={{ borderRadius: "70%" }}
