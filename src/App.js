@@ -1,11 +1,11 @@
 import React from "react";
-import About from "./components/About";
+import Main from "./components/Main";
 import Contact from "./components/Contact";
 
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
-import Bio from "./components/Bio";
+import About_Me from "./components/About me";
 import {useState} from 'react';
 import './index.css';
 
@@ -25,8 +25,8 @@ if(switcher){
     <input type="checkbox" id="switcher" onClick={handleSwitch}/>
     <span class="slider round"></span>
     </label>
-      <About />
-      <Bio/>
+      <Main />
+      <About_Me/>
       <Projects />
       <Skills background = {switcher} />
       
@@ -46,8 +46,8 @@ else {
     <input type="checkbox" id="switch" onClick={handleSwitch}/>
     <span class="slider round"></span>
     </label>
-      <About />
-      <Bio/>
+      <Main />
+      <About_Me/>
       <Projects />
       <Skills />
       
