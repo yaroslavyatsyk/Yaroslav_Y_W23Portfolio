@@ -21,7 +21,7 @@ export default function About_Me() {
             <br/>
             <p className="card-text mb-10 leading-relaxed text-center" style={{maxWidth: '100%'}} >
            Greetings, and thank you for visiting my online portfolio.
-My name is Yaroslav Yatsyk. I hold a Bachelor’s Degree in Computer Science from Lviv Polytechnic National University (Ukraine) and recently graduated from the Computer Programming & Analysis program at George Brown College in Toronto, Ontario, Canada.
+My name is Yaroslav Yatsyk. I hold a Bachelor’s Degree in Computer Science from Lviv Polytechnic National University (Ukraine) and a College Degree in Computer Programming & Analysis program at George Brown College in Toronto, Ontario, Canada with honors.
 
 I am a dedicated software developer with a strong focus on the .NET technology stack, passionate about building innovative software that enhances everyday life. I’m recognized as a reliable team player who thrives on solving complex problems and delivering efficient, user-centered solutions.
 
