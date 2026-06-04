@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function About_Me() {
+export default function AboutMe() {
   return (
     <section id="bio">
       <div className="container px-5 py-5 mx-auto">
