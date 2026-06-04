@@ -26,7 +26,7 @@ if(switcher){
     <span class="slider round"></span>
     </label>
       <Main />
-      <About_Me/>
+      <AboutMe/>
       <Projects />
       <Skills background = {switcher} />
       
